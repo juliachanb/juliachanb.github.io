@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+    <div id="sticky-footer-wrapper">
+
+      {% include header.html %}
+
+      <a href="#sticky-footer-wrapper"><div id="to-top">Return to top <i class="fa fa-level-up"></i></div></a>
+
+      <div class="page-content">
+          <div class="wrapper">
+
+              <article class="post">
+
+                <header class="post-header">
+                  <h1 class="post-title">{{ page.title }}</h1>
+                </header>
+
+                <div class="post-content">
+                  {{ content }}
+                </div>
+
+              </article>
+
+          </div>
+      </div>
+
+      <div class="push"></div>
+    </div>  
+      {% include footer.html %}
+
+  <script src="{{ site.url }}/js/jquery.min.js"></script>  
+  <script>
+    $(function() {
+
+      // Activates "scroll to top" button once viewer scrolls down the page
+      $(window).scroll(function() {
+          var scroll = $(window).scrollTop();
+          if (scroll >= 300) { $('#to-top').addClass('down'); } 
+          else { $('#to-top').removeClass('down'); }
+      });
+
+
+    });
+  </script>
+
+  </body>
+
+</html>
