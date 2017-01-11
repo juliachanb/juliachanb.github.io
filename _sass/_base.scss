@@ -267,3 +267,9 @@ th {
         }
     }
 }
+@media(max-width:575px) {
+   a.page-link {
+     display: block;
+     margin-bottom: 10px;
+   }
+ }
