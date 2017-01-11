@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Hi, I'm Julia! I'm a really cool journalist and DJ lady. 
+Hi, I'm Julia! I'm a really cool journalist and DJ lady. This is a sentecne to show me how this works.
 
 I wear cooler glasses than you, and my dog is awesome. His name is Remy and he is very fluffy. You might even get to meet him.
 
