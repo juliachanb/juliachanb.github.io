@@ -7,7 +7,7 @@
 
 # Site settings
 title:  Julia B. Chan
-email:  jchan@cironline.org
+email:  juliachanb@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   journalist + creative human
 
@@ -19,7 +19,7 @@ twitter_username:       juliachanb
 github_username:        juliachanb
 linkedin_username:      juliachanb
 google_plus_username:   
-facebook_username:      
+facebook_username:      juliachanb
 
 # Build settings
 markdown: kramdown
