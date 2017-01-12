@@ -2,6 +2,7 @@
 layout: page
 title: Resume
 permalink: /resume/
+published: true
 ---
 
 ---
@@ -50,9 +51,7 @@ ___
 
 ## **Education**  
 
-Stanford University – *M.A. Journalism - 2015*
-
-Washington University in St. Louis - *A.B. Jewish, Islamic and Near Eastern Studies; Art - 2012*
+San Francisco State University - *B.A. Broadcasting and Electronic Communication Arts, 2006*
 
 ___
 
