@@ -5,12 +5,18 @@ permalink: /about/
 published: true
 ---
 
-Hi, I'm Julia! I'm a really cool journalist and DJ lady. This is a sentecne to show me how this works.
+Julia B. Chan is a multi-platform journalist who works and plays in the digital space. With more than 10 years of experience in the news industry, she’s well acclimated to the high-pressure environments of newsrooms, nonstop rhythms of news cycles, and the ebb and flow of tech trends.
 
-I wear cooler glasses than you, and my dog is awesome. His name is Remy and he is very fluffy. You might even get to meet him.
+She's quick, efficient and accurate – but not without maintaining a sense of wit and creativity.
 
-During the day, I split my time between a Magic Grant project with the [Brown Institute for Media Innovation](http://brown.stanford.edu) and working as the Data Fellow at the [Center for Investigative Reporting](http://www.revealnews.org). Nights, I'm either teaching at [UC Berkeley](link to new media site), crushing bar trivia or "exploring" San Francisco's Mission District taquerias.
+Currently, Julia's the Digital Editor at [Reveal](https://www.revealnews.org/) and The Center for Investigative Reporting. 
 
-Before coming to the Bay Area, I was the editor of [PBS NewsHour Extra](http://www.newshour.pbs.org/extra), the [PBS NewsHour's](http://newshour.pbs.org) educational resources site in Arlington, Virginia. I wrote, edited and produced Extra’s content, and created multimedia assets for the NewsHour’s main online operation.
+This year she was elected to serve her local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And she'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
 
-If you'd like to know more about me, check out my [resume](/resume/).
+The rest of her time will be spent growing [this community of JOCs](https://journalistsofcolor.us/), brainstorming music projects and (let's be honest) watching Netflix.
+
+Julia lives in San Francisco and drives an electric car. 
+
+She's aware of how clichéd that sounds.
+
+Want more? Check out my [resume](/resume/).
