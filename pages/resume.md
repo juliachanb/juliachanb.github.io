@@ -47,13 +47,11 @@ ___
 
 Julia managed the social media activities, online community development, communications and marketing of The I Files, YouTube's first investigative news channel. She designed strategies that were measured efficiently and created multimedia content that was widely shared. 
 
-The I Files was a channel – youtube.com/ifiles – thoughtfully curated to showcase the best investigative news videos and documentaries from around the world. The team worked with major contributors including The New York Times, ABC, BBC, Al-Jazeera, ProPublica, Vice, NPR, PBS and the Investigative News Network and many more.
+The I Files was a channel – youtube.com/ifiles – thoughtfully curated to showcase the best investigative news videos and documentaries from around the world. The team worked with major contributors including The New York Times, ABC, BBC, Al-Jazeera, ProPublica, Vice, NPR, PBS and the Investigative News Network.
 
-*Its animated video "In Jennifer's Room" won a national Emmy for "New Approaches: Current News Coverage" – it's considered the first YouTube video to win an Emmy.
+_Fun fact: Its animated video "In Jennifer's Room" won a national Emmy for "New Approaches: Current News Coverage" – it's considered the first YouTube video to win an Emmy._
 
 Her efforts in distribution, promotion and curation for The I Files could be found on [Hulu](http://cironline.org/blog/post/i-files-hits-hulu-scene-4223), [Salon.com](http://www.salon.com/2013/06/16/top_5_investigative_videos_of_the_week_worlds_worst_charities_exposed_partner/) and the [Huffington Post](http://www.huffingtonpost.com/2013/08/10/hilarious-propaganda-videos_n_3727471.html?utm_hp_ref=world).
-
-She launched and managed the day-to-day of the following social platforms: Facebook, Twitter, Tumblr, Google+ and Pinterest. 
 
 In one year, she grew The I Files' [Facebook](https://www.facebook.com/TheIFiles/) audience from 0 to over 80,000 likes and its [Tumblr](http://theifiles.tumblr.com/) page to over 18,000 followers. 
 
