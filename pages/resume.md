@@ -108,29 +108,25 @@ Julia is an integral member of CIR's Diversity Committee which spurred initiativ
 
 Julia teaches social media and digital strategy workshops.
 
-#### Speaker/Panelist 
-_**2016 Appearances**_
+___
 
-#MozFest
-#Oct. 2016 – London, England
-#“Get on board: Story- and mood boarding your stories”
+## **Speaking Engagements**
 
-NorCal 2016 conference (Journalism Association of Community Colleges)
-Oct. 2016 – Pittsburg, California
+#### 2016 Appearances
+**[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
+“Get on board: Story- and mood boarding your stories”
+
+**Journalism Association of Community Colleges [NorCal 2016 conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
 “Making Moves: What Investigative Journalism Across Platforms Looks Like”
 
-ONA16 (Online News Association)
-Sept. 2016 – Denver, Colorado
+**[ONA16](http://ona16.journalists.org/), Sept. 2016 – Denver, Colo.**
 “Story, Platform and Design: Digital Journalism Insights”
 
-AAJA’s National Convention (Asian American Journalists Association)
-Aug. 2016 – Las Vegas, Nevada
+**[AAJA16](http://www.aaja.org/category/convention/las-vegas-2016/), Aug. 2016 – Las Vegas, Nev.**
 “Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
 
-2016 CAR conference (aka NICAR16)
-March 2016 – Denver, Colorado
+**[2016 CAR conference](https://ire.org/conferences/nicar2016/) (aka NICAR16), March 2016 – Denver, Colo.**
 “Jobs and Career Straight-Talk: For (and By) Young’uns”
-
 ___
 
 ## **Skills**
