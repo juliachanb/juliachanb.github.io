@@ -116,7 +116,7 @@ ___
 
 “Get on board: Story- and mood boarding your stories”
 
-**[JACC NorCal 2016 conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
+**[JACC NorCal conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
 
 “Making Moves: What Investigative Journalism Across Platforms Looks Like”
 
@@ -128,7 +128,7 @@ ___
 
 “Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
 
-**[2016 CAR conference](https://ire.org/conferences/nicar2016/) (aka NICAR16), March 2016 – Denver, Colo.**
+**[NICAR16](https://ire.org/conferences/nicar2016/), March 2016 – Denver, Colo.**
 
 “Jobs and Career Straight-Talk: For (and By) Young’uns”
 
