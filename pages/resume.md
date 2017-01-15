@@ -63,11 +63,29 @@ ___
 
 #### Web Editor
 
-**[The San Francisco Examiner](http://www.pbs.org/newshour/)**
+**[The San Francisco Examiner](http://www.sfexaminer.com/)**
 
 *San Francisco, CA – September 2006 - May 2012*
 
-Write, edit and produce articles and videos for the PBS NewsHour's online and educational resources divisions. Design infographics for the web and graphics for broadcast. Mentor high school students in the Student Reporting Labs program to produce original video reports about issues in their communities. Head copy editor of the NewsHour's education team inauguration coverage.
+Julia managed sfexaminer.com – this included writing breaking news stories, editing copy, updating the site, setting up photo galleries, overseeing all online blogs and working with the Executive Editor to curate content.
+
+She also ...
+
+- Helped develop editorial style guidelines, establish online procedures and enforce content standards through many incarnations of the website. 
+
+- Planned and actualized effective SEO strategies.
+
+- Launched the Examiner's first foray into social media and online engagement. 
+
+-  Managed multiple social media accounts — Twitter, Facebook, Digg, Tumblr — in order to break news and seed stories, as well as to interact with readers. Successfully procured placement of exclusive content on Fark, Reddit and Drudge. 
+
+- Oversaw reporters and freelance writers during late hours and weekends. 
+
+- Served as primary liaison between staff and companies operating the sfexaminer.com back end and providing CMS interface. Ensured colleagues’ awareness of changes to standards and practices, implementation of new features, and system status. Led staff training sessions on digital products.
+
+- Edited major fashion and other Arts &Entertainments packages, including photo spreads and copy for annual Oscars coverage that were featured in print and online – known as go-to photo editor.
+
+- Contributed to the print production of the newspaper by designing pages, creating graphics, proofreading, writing and editing copy, and selecting art.
 
 ___
 
@@ -80,7 +98,7 @@ ___
 ## **Skills**
 
 #### Applications:
-Adobe Illustrator/Photoshop, TileMill/Mapbox.js, QGIS, Final Cut Pro, Wordpress.
+Adobe Photoshop, Adobe InDesign, Adobe Audition, Pro Tools, Wordpress.
 
-#### Programming languages:
-HTML/CSS, Javascript (including D3.js), Python, Bash, SQL.
+#### Languages:
+English (fluent), Cantonese (conversational), German (basic), Spanish (basic).
