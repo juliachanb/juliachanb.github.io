@@ -55,7 +55,7 @@ Her efforts in distribution, promotion and curation for The I Files could be fou
 
 In one year, she grew The I Files' [Facebook](https://www.facebook.com/TheIFiles/) audience from 0 to over 80,000 likes and its [Tumblr](http://theifiles.tumblr.com/) page to over 18,000 followers. 
 
-[YouTube](https://www.youtube.com/ifiles) channel subscribers totaled over 14,000, with almost 5 million views logged, by the end of the year-long project.
+YouTube channel subscribers totaled over 14,000, with almost 5 million views logged, by the end of the year-long project.
 
 ___
 
