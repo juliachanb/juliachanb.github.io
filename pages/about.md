@@ -13,10 +13,12 @@ Currently, Julia's the Digital Editor at [Reveal](https://www.revealnews.org/) a
 
 This year she was elected to serve her local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And she'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
 
-The rest of her time will be spent growing [this community of JOCs](https://journalistsofcolor.us/), brainstorming music projects and (let's be honest) watching Netflix.
+The rest of her time will be spent growing [this community of JOCs](https://journalistsofcolor.us/), brainstorming music projects, reading short stories and (let's be honest) watching Netflix.
 
 Julia lives in San Francisco and drives an electric car. 
 
 She's aware of how clichéd that sounds.
-
+.
+.
+.
 Want more? Check out my [resume](/resume/).
