@@ -11,7 +11,7 @@ published: true
 
 #### Digital Editor
 
-**[Reveal](http://revealnews.org), The Center for Investigative Reporting**
+**[Reveal, The Center for Investigative Reporting](http://revealnews.org)**
 
 *Emeryville, CA – January 2015 - Present*
 
@@ -91,25 +91,25 @@ ___
 
 #### 2017 Fellow, Women’s Leadership Accelerator 
 **[The Online News Association](https://journalists.org/2016/12/20/ona-announces-class-for-2017-womens-leadership-accelerator/)**
-
+___
 #### 2017 President, AAJA-SF Chapter
 **[Asian American Journalist Association](http://www.aaja.org/where-you-can-find-aaja/)**
-
+___
 #### 2017 2017 National Advisory Board Representative, AAJA
 **[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
-
+___
 #### Diversity and Inclusion Leader
 **[Reveal](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
 
 Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hiring-by-committee – a new practice that supports hiring managers and brings employees from around the newsroom (and with different backgrounds) to the table. 
-
+___
 #### Instructor 
 **[Bay Area Video Coalition](https://www.bavc.org/)**
 
 Julia teaches social media and digital strategy workshops.
-
+___
 #### Speaker/Panelist 
-**2016 Appearances**
+_**2016 Appearances**_
 
 MozFest
 Oct. 2016 – London, England
@@ -137,6 +137,7 @@ ___
 
 #### Applications:
 Adobe Photoshop, Adobe InDesign, Adobe Audition, Pro Tools, Wordpress.
+
 
 #### Languages:
 English (fluent), Cantonese (conversational), German (basic), Spanish (basic).
