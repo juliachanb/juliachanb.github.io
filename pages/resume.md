@@ -87,9 +87,49 @@ She also ...
 
 ___
 
-## **Education**  
+## **Leadership**
 
-San Francisco State University - *B.A. Broadcasting and Electronic Communication Arts, 2006*
+#### 2017 Fellow, Women’s Leadership Accelerator 
+**[The Online News Association](https://journalists.org/2016/12/20/ona-announces-class-for-2017-womens-leadership-accelerator/)**
+
+#### 2017 President, AAJA-SF Chapter
+**[Asian American Journalist Association](http://www.aaja.org/where-you-can-find-aaja/)**
+
+#### 2017 2017 National Advisory Board Representative, AAJA
+**[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
+
+#### Diversity and Inclusion Leader
+**[Reveal](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
+
+Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hiring-by-committee – a new practice that supports hiring managers and brings employees from around the newsroom (and with different backgrounds) to the table. 
+
+#### Instructor 
+**[Bay Area Video Coalition](https://www.bavc.org/)**
+
+Julia teaches social media and digital strategy workshops.
+
+#### Speaker/Panelist 
+**2016 Appearances**
+
+MozFest
+Oct. 2016 – London, England
+“Get on board: Story- and mood boarding your stories”
+
+NorCal 2016 conference (Journalism Association of Community Colleges)
+Oct. 2016 – Pittsburg, California
+“Making Moves: What Investigative Journalism Across Platforms Looks Like”
+
+ONA16 (Online News Association)
+Sept. 2016 – Denver, Colorado
+“Story, Platform and Design: Digital Journalism Insights”
+
+AAJA’s National Convention (Asian American Journalists Association)
+Aug. 2016 – Las Vegas, Nevada
+“Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
+
+2016 CAR conference (aka NICAR16)
+March 2016 – Denver, Colorado
+“Jobs and Career Straight-Talk: For (and By) Young’uns”
 
 ___
 
@@ -100,3 +140,9 @@ Adobe Photoshop, Adobe InDesign, Adobe Audition, Pro Tools, Wordpress.
 
 #### Languages:
 English (fluent), Cantonese (conversational), German (basic), Spanish (basic).
+
+___
+
+## **Education**  
+
+San Francisco State University - *B.A. Broadcasting and Electronic Communication Arts, 2006*
