@@ -110,7 +110,7 @@ Julia teaches social media and digital strategy workshops.
 
 ___
 
-## **Speaking Engagements**
+## **Panels/Presentations**
 
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
 
