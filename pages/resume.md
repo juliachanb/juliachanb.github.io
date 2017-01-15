@@ -138,11 +138,11 @@ ___
 ## **Skills**
 
 #### Applications:
-Adobe Photoshop, Adobe InDesign, Adobe Audition, Pro Tools, Wordpress.
+Adobe Photoshop, Adobe InDesign, Adobe Audition, Pro Tools, Wordpress
 
 
 #### Languages:
-English (fluent), Cantonese (conversational), German (basic), Spanish (basic).
+English (fluent), Cantonese (conversational), German (basic), Spanish (basic)
 
 ___
 
