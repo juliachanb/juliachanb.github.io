@@ -112,7 +112,6 @@ ___
 
 ## **Speaking Engagements**
 
-#### 2016 Appearances
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
 
 “Get on board: Story- and mood boarding your stories”
