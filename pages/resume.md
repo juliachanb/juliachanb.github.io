@@ -95,13 +95,13 @@ ___
 #### 2017 President, AAJA-SF Chapter
 **[Asian American Journalist Association](http://www.aaja.org/where-you-can-find-aaja/)**
 
-#### 2017 2017 National Advisory Board Representative, AAJA
+#### 2017 National Advisory Board Representative, AAJA
 **[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
 
 #### Diversity and Inclusion Leader
-**[Reveal](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
+**[The Center for Investigative Reporting](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
 
-Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hiring-by-committee – a new practice that supports hiring managers and brings employees from around the newsroom (and with different backgrounds) to the table. 
+Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hiring-by-committee – a new practice that provides support to hiring managers and brings employees from around the newsroom (and with different backgrounds) to the table. 
 
 #### Instructor 
 **[Bay Area Video Coalition](https://www.bavc.org/)**
@@ -114,20 +114,27 @@ ___
 
 #### 2016 Appearances
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
+
 “Get on board: Story- and mood boarding your stories”
 
-**Journalism Association of Community Colleges [NorCal 2016 conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
+**[JACC NorCal 2016 conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
+
 “Making Moves: What Investigative Journalism Across Platforms Looks Like”
 
 **[ONA16](http://ona16.journalists.org/), Sept. 2016 – Denver, Colo.**
+
 “Story, Platform and Design: Digital Journalism Insights”
 
 **[AAJA16](http://www.aaja.org/category/convention/las-vegas-2016/), Aug. 2016 – Las Vegas, Nev.**
+
 “Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
 
 **[2016 CAR conference](https://ire.org/conferences/nicar2016/) (aka NICAR16), March 2016 – Denver, Colo.**
+
 “Jobs and Career Straight-Talk: For (and By) Young’uns”
+
 ___
+
 
 ## **Skills**
 
