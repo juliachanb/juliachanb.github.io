@@ -18,7 +18,5 @@ The rest of her time will be spent growing [this community of JOCs](https://jour
 Julia lives in San Francisco and drives an electric car. 
 
 She's aware of how clichéd that sounds.
-.
-.
-.
-Want more? Check out my [resume](/resume/).
+
+To the [resume](/resume/)!
