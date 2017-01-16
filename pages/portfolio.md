@@ -2,19 +2,20 @@
 layout: page
 title: Portfolio
 permalink: /portfolio/
+published: true
 ---
 
 ---
 
-[Web / Interactive](#interactive) |
-[Graphics](#graphics) | 
-[Art](#art)
+[Digital](#digital) |
+[Audio](#audio) | 
+[Project Management](#projectmanagement)
 
 ---
 
-<a class="anchor" name="interactive"></a>
+<a class="anchor" name="digital"></a>
 
-## Web / Interactive 
+## Digital 
 
 ![alttext](/img/portfolio_images/lostandfound.png)
 
@@ -28,9 +29,9 @@ permalink: /portfolio/
 
 ---
 
-<a class="anchor" name="graphics"></a>
+<a class="anchor" name="audio"></a>
 
-## Graphics 
+## Audio 
 
 ![Farm to fork](/img/portfolio_images/food_illo.png)
 
@@ -67,9 +68,9 @@ permalink: /portfolio/
 ---
 
 
-<a class="anchor" name="art"></a>
+<a class="anchor" name="projectmanagement"></a>
 
-## Art 
+## Project Management 
 
 ![Uffizi Gallery sketch](/img/portfolio_images/florence_sketch1.jpg)
 
