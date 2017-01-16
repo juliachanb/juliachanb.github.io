@@ -17,17 +17,15 @@ published: true
 
 ## Digital 
 
-![Screen Shot 2017-01-16 at 2.34.22 PM.png]({{site.baseurl}}/pages/Screen Shot 2017-01-16 at 2.34.22 PM.png)
+![NHPR timeline]({{site.baseurl}}/pages/nhpr timeline screenshot.png)
 
-![alttext](/img/portfolio_images/lostandfound.png)
+### Interactive: For disabled patients, an endless cycle of abuse
 
-### The Lost & The Found
+[Go to project](https://www.revealnews.org/article/interactive-for-disabled-patients-an-endless-cycle-of-abuse/)
 
-[Go to project](lostandfound.revealnews.org)
+*This interactive accompanied Reveal and New Hampshire Public Radio’s [larger investigation](https://www.revealnews.org/episodes/a-mountain-of-misconduct/) into the history of abuse and neglect at a network of family-run neurorehab centers. It takes a deeper look at the major players uncovered while reporting the story, and displays their connections with one another.*
 
-*My first major news application project for the Center for Investigative Reporting. This application accompanied our investigation [Left for Dead](http://revealnews.org/leftfordead) which looked into the broken law enforcement systems that prevent unidentified bodies from being identified, and missing persons from being found.*
-
-*The application took data from the NamUs databases of missing and unidentified persons and allows users to search through both databases simultaneously, hopefully making in easier for the public to assist law enforcement in making breakthroughs on cold cases. I was responsible for the design and interaction of the site.*
+*I worked with developer Julia Smith to conceptualize the design and functionality of the interactive, and artist Anna Vignet on the illustrations. I also worked closely with lead reporters Laura Starecheski and NHPR’s Jack Rodolico to write and edit the graphic's narrative. One of my goals for this project was to make sure that each character's story stood well alone and as a slice of the larger piece.*
 
 ![alttext](/img/portfolio_images/lostandfound.png)
 
