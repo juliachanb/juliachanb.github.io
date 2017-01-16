@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![NHPR timeline]({{site.baseurl}}/pages/nhpr timeline screenshot.png)
+![NHPR timeline]({{site.baseurl}}/pages/NHPR timeline screenshot.png)
 
 ### Interactive: For disabled patients, an endless cycle of abuse
 
