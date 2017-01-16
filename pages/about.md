@@ -7,7 +7,7 @@ published: true
 
 Julia B. Chan is a multi-platform journalist who works and plays in the digital space. With more than 10 years of experience in the news industry, she’s well acclimated to high-pressure environments, the nonstop rhythm of news cycles, and the ebb and flow of tech trends.
 
-She's quick, efficient and accurate – but not without a bit of wit and creativity.
+She's quick, efficient and accurate – without losing wit or creativity.
 
 Currently, Julia's the Digital Editor at [Reveal](https://www.revealnews.org/) and The Center for Investigative Reporting. 
 
