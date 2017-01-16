@@ -13,7 +13,7 @@ published: true
 
 **[Reveal, The Center for Investigative Reporting](http://revealnews.org)**
 
-*Emeryville, CA – January 2015 - Present*
+*Emeryville, Calif. – January 2015 - Present*
 
 Julia develops and oversees editorial projects that shape how stories and investigations are published across platforms. Her job combines reporting with technology, web and audio production. 
 
@@ -27,7 +27,7 @@ ___
 
 **[The Center for Investigative Reporting](https://www.revealnews.org/)** 
 
-*Emeryville, CA – July 2013 - January 2015*
+*Emeryville, Calif. – July 2013 - January 2015*
 
 In this role, Julia created systems to manage internal and external communications for the organization as a whole. She created the workflow for weekly newsletter production and worked closely with the copydesk to streamline website processes. 
 
@@ -43,7 +43,7 @@ ___
 
 **[The Center for Investigative Reporting](http://www.sfexaminer.com/)**
 
-*Berkeley, CA – June 2012 - July 2013*
+*Berkeley, Calif. – June 2012 - July 2013*
 
 Julia managed the social media activities, online community development, communications and marketing of The I Files, YouTube's first investigative news channel. She designed strategies that were measured efficiently and created multimedia content that was widely shared. 
 
@@ -63,7 +63,7 @@ ___
 
 **[The San Francisco Examiner](http://www.sfexaminer.com/)**
 
-*San Francisco, CA – September 2006 - May 2012*
+*San Francisco – September 2006 - May 2012*
 
 Julia managed sfexaminer.com – this included writing breaking news stories, editing copy, updating the site, setting up photo galleries, overseeing all online blogs and working with the Executive Editor to curate content.
 
@@ -120,15 +120,15 @@ ___
 
 “Making Moves: What Investigative Journalism Across Platforms Looks Like”
 
-**[ONA16](http://ona16.journalists.org/), Sept. 2016 – Denver, Colo.**
+**[ONA16](http://ona16.journalists.org/), Sept. 2016 – Denver**
 
 “Story, Platform and Design: Digital Journalism Insights”
 
-**[AAJA16](http://www.aaja.org/category/convention/las-vegas-2016/), Aug. 2016 – Las Vegas, Nev.**
+**[AAJA16](http://www.aaja.org/category/convention/las-vegas-2016/), Aug. 2016 – Las Vegas**
 
 “Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
 
-**[NICAR16](https://ire.org/conferences/nicar2016/), March 2016 – Denver, Colo.**
+**[NICAR16](https://ire.org/conferences/nicar2016/), March 2016 – Denver**
 
 “Jobs and Career Straight-Talk: For (and By) Young’uns”
 
