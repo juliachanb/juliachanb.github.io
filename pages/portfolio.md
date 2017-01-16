@@ -17,6 +17,18 @@ published: true
 
 ## Digital 
 
+![Screen Shot 2017-01-16 at 2.34.22 PM.png]({{site.baseurl}}/pages/Screen Shot 2017-01-16 at 2.34.22 PM.png)
+
+![alttext](/img/portfolio_images/lostandfound.png)
+
+### The Lost & The Found
+
+[Go to project](lostandfound.revealnews.org)
+
+*My first major news application project for the Center for Investigative Reporting. This application accompanied our investigation [Left for Dead](http://revealnews.org/leftfordead) which looked into the broken law enforcement systems that prevent unidentified bodies from being identified, and missing persons from being found.*
+
+*The application took data from the NamUs databases of missing and unidentified persons and allows users to search through both databases simultaneously, hopefully making in easier for the public to assist law enforcement in making breakthroughs on cold cases. I was responsible for the design and interaction of the site.*
+
 ![alttext](/img/portfolio_images/lostandfound.png)
 
 ### The Lost & The Found
