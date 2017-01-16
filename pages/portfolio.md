@@ -27,6 +27,10 @@ published: true
 
 *I worked with developer Julia Smith to conceptualize the design and functionality of the interactive, and artist Anna Vignet on the illustrations. I also worked closely with lead reporters Laura Starecheski and NHPR’s Jack Rodolico to write and edit the graphic's narrative. One of my goals for this project was to make sure that each character's story stood well alone and as a slice of the larger piece.*
 
+*Bonus: An [iframed version](http://s3-us-west-1.amazonaws.com/apps-staging-cironline-org/lakeview-timeline/index.html) of the timeline was distributed to 200+ radio stations to include on their websites alongside the radio investigation.* 
+
+---
+
 ![alttext](/img/portfolio_images/lostandfound.png)
 
 ### The Lost & The Found
