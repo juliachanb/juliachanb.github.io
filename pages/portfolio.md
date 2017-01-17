@@ -63,9 +63,19 @@ published: true
 
 [Go to project](https://www.revealnews.org/episodes/the-year-in-reveal/)
 
-*I produced this episode and developed the [community engagement campaign](https://www.revealnews.org/blog/hey-listeners-what-was-your-favorite-reveal-moment-of-2016/) that went into putting it together. *
+*I produced this episode and developed the [community engagement campaign](https://www.revealnews.org/blog/hey-listeners-what-was-your-favorite-reveal-moment-of-2016/) that went into putting it together.*
 
-*I used listener feedback and reponses to decide which stories to discuss and/or revisit and was able to work their voices into the show, online, on social and in our newsletter. I wrote the scripts and worked with our engineers to record Al and produce the episode in Pro Tools.*
+*I worked with our engagement lead to seed the campaign and used the resulting listener feedback to decide which stories to discuss and/or revisit. I was then able to work their responses into the show, [online](https://www.revealnews.org/blog/reveals-most-memorable-moments-according-to-you/) and [in our newsletter](http://us1.campaign-archive2.com/?u=cb5ac439b0222506e9eb7736c&id=903814996c&e=a60d763829). I wrote the scripts and worked with our engineers to record Al and produce the episode in Pro Tools.*
+
+---
+
+<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269669108&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+
+### After Orlando
+
+[Go to project](https://www.revealnews.org/blog/reveals-most-memorable-moments-according-to-you/)
+
+*This show was the first time we turned around an episode in a week – and with that came quick thinking and production. We were able to memorialize the victims by using snippets of their lives found on social media as vignettes heard throughout the hour. I produced these vignettes and  coordinated with the San Francisco Gay Men's Chorus to use their beautiful tribute for the top of the show.*
 
 ---
 
