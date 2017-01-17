@@ -45,6 +45,18 @@ published: true
 
 ## Audio 
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301285846&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### "America’s digital dumping ground" segment
+
+[Go to project](https://www.revealnews.org/episodes/americas-digital-dumping-ground/)
+
+*I was the lead producer on this episode and produced the opening segment.*
+
+*I interviewed workers and customers at Greenmouse Recycling, conducted field recordings, wrote the scripts and worked with our engineers to produce the episode in Pro Tools.*
+
+---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235944317&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### "Farm to fork" segments
