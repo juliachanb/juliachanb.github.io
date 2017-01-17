@@ -105,7 +105,7 @@ published: true
 
 [Go to project](https://www.revealnews.org/episodes/one-thing-leads-to-another/)
 
-*I was the lead producer on this episode. The Executive Producer and I worked together to pick three major investigations that aired on Reveal (up until that point in 2015) to update. My role in this production was to work with the original reporters and their stories, write their scripts and produce their segments.*
+*I was the lead producer on this episode. The Executive Producer and I worked together to pick three major investigations that aired on Reveal (up until that point in 2015) to update. My role in this production was to work with the original reporters and their stories, and produce their segments.*
 
 ---
 
