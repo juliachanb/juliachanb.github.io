@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![code words]({{site.baseurl}}/pages/code words_MAIN.png)
+![code words]({{site.baseurl}}/pages/code words_shorter.png)
 
 ### Decoding the language of discrimination
 
