@@ -17,6 +17,16 @@ published: true
 
 ## Digital 
 
+![steve walls]({{site.baseurl}}/pages/steve walls foto essay.png)
+
+### The secret Trump voter
+
+[Go to project](https://www.revealnews.org/episodes/the-secret-trump-voter/)
+
+*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+
+---
+
 ![fran trump]({{site.baseurl}}/pages/fran trump screenshot.png)
 
 ### Portraits of a Trump supporter
