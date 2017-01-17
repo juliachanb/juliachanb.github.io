@@ -59,7 +59,7 @@ published: true
 
 ### Portraits of a Trump supporter
 
-[Check out the interative](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+[Check out the interactive](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
 
 [Go to the larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
 
