@@ -37,7 +37,7 @@ published: true
 
 [Go to projects](https://www.revealnews.org/episodes)
 
-*I work with a variety of artists and illustrations to create original artwork for every episode of Reveal.*
+*I work with a variety of artists and illustrators to create original artwork for every episode of Reveal.*
 
 ---
 
