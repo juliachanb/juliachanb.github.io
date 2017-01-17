@@ -17,6 +17,18 @@ published: true
 
 ## Digital 
 
+![code words]({{site.baseurl}}/pages/code words_MAIN.png)
+
+### Decoding the language of discrimination
+
+[Go to the story](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/)
+
+[Go to the larger project](https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/)
+
+*I used JuxtaposeJS to create an interactive post that highlighed the code words and phrases temp agencies used to discriminate against job applicants based on race and gender. Can you decipher what code words like "small hands" or "code 3" meant?*
+
+---
+
 ![motherjonesCCA]({{site.baseurl}}/pages/motherjonesCCA_800px.jpg)
 
 ### The culture within: Shane Bauer takes us inside a private prison
