@@ -47,13 +47,25 @@ published: true
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/301285846&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-### "America’s digital dumping ground" segment
+### America’s digital dumping ground
 
 [Go to project](https://www.revealnews.org/episodes/americas-digital-dumping-ground/)
 
 *I was the lead producer on this episode and produced the opening segment.*
 
-*I interviewed workers and customers at Greenmouse Recycling, conducted field recordings, wrote the scripts and worked with our engineers to produce the episode in Pro Tools.*
+*I interviewed workers and customers at Greenmouse Recycling, conducted field recordings, wrote the scripts and worked with our engineers to record Al and produce the episode in Pro Tools.*
+
+---
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/300116476&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### The year in Reveal
+
+[Go to project](https://www.revealnews.org/episodes/the-year-in-reveal/)
+
+*I produced this episode and developed the [community engagement campaign](https://www.revealnews.org/blog/hey-listeners-what-was-your-favorite-reveal-moment-of-2016/) that went into putting it together. *
+
+*I used listener feedback and reponses to decide which stories to discuss and/or revisit and was able to work their voices into the show, online, on social and in our newsletter. I wrote the scripts and worked with our engineers to record Al and produce the episode in Pro Tools.*
 
 ---
 
@@ -65,7 +77,7 @@ published: true
 
 *Along with the digital pieces that accompanied this episode, I produced the opening segment and provided production assistance for Katherine Mieszkowski's salmonella story.*
 
-*I researched and interviewed workers at the San Francisco Wholesale Produce marketplace, conducted field recordings, prepped host Al Letson on the scene, wrote the scripts and worked with engineer Jim Briggs to produce the story in Pro Tools.*
+*I researched and interviewed workers at the San Francisco Wholesale Produce marketplace, conducted field recordings, prepped host Al Letson on the scene, wrote the scripts and worked with engineer Jim Briggs to record Al and produce the story in Pro Tools.*
 
 ---
 
