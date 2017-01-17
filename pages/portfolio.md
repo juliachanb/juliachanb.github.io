@@ -79,9 +79,19 @@ published: true
 
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255090922&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### New day dawning on the night shift
+
+[Go to project](https://www.revealnews.org/episodes/new-day-dawning-on-the-night-shift/)
+
+*I was the lead producer on this episode and produced the updates. This production included new sound and interviews from a rally of workers, activists and legislators at the California State Capitol – an event that was sparked, in part, by Reveal's investigation [Rape on the Night Shift](https://www.revealnews.org/nightshift/); working with freelance reporter Sandra Bartlett to update her story about "[Disposable workers in Asia](https://www.revealnews.org/episodes/hell-of-a-job/#segment-disposable-workers-in-asia);" and producing a new story from our partners at the Houston Chronicle which looked at a black market of undocumented workers used to supply Chinese restaurants all over the U.S.*
+
+---
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/235944317&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
-### "Farm to fork" segments
+### Farm to fork
 
 [Go to project](https://www.revealnews.org/episodes/farm-to-fork-uncovering-hazards-in-our-food-systems/)
 
