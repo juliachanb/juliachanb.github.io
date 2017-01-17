@@ -108,11 +108,11 @@ published: true
 
 ![illo collage screenshot.jpg]({{site.baseurl}}/pages/illo collage screenshot.jpg)
 
-### Art Direction
+### Episode illustrations
 
 [Go to projects](https://www.revealnews.org/episodes)
 
-*I work with a variety of artists and illustrators to create original artwork for every episode of Reveal.*
+*I hire and direct a talented stable of artists and illustrators to create original artwork for every episode of Reveal.*
 
 ---
 
