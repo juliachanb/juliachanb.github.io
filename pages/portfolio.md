@@ -37,7 +37,7 @@ published: true
 
 [Go to the larger project](https://www.revealnews.org/episodes/the-secret-trump-voter/)
 
-*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+*This was a fun project I came up with after learning we had a cache of photos we didn't use from election night. I thought Steve Walls had an interesting story to tell and we had the photos to tell it. I worked with reporter Laura Starecheski, who shadowed Steve on the last leg of his journey to make Donald Trump president, to select photos, identify key quotes and fact check.*
 
 ---
 
@@ -49,7 +49,9 @@ published: true
 
 [Go to the larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
 
-*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+*I worked closely with news applications developer Scott Pham, and other data team members, to build this interactive. I reported and wrote the story, selected the sound bites and photos, and helped to design and conceptualize the interactions.*
+
+*This story was a part of a larger look at Trump supporters – who they are and why they support Trump.*
 
 ---
 
@@ -86,7 +88,7 @@ published: true
 
 [Go to project](https://www.revealnews.org/article/jehovahs-witnesses-cover-up-child-sex-abuse-and-oust-a-victim/)
 
-*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.*
+*Utilizing audio from the radio piece, I used [SoundCite](https://soundcite.knightlab.com/) to enhance the online version of Trey Bundy's investigation. I selected photos that would best accompany the audio (and vice versa) and wrote cutlines that set up the sound bites.*
 
 ---
 
