@@ -17,11 +17,23 @@ published: true
 
 ## Digital 
 
-![Steve Walls collage.jpg]({{site.baseurl}}/pages/Steve Walls collage.jpg)
+![zika audiogram]({{site.baseurl}}/pages/zika audiogram.png)
+
+### From A to Zika
+
+[Play the audiogram](https://twitter.com/juliachanb/status/761687005826732032)
+[Go to the larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
+
+*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+
+---
+
+![Steve Walls collage]({{site.baseurl}}/pages/Steve Walls collage.jpg)
 
 ### The man who saw Donald Trump’s victory coming
 
-[Go to project](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
+[See the photo essay](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
+[Go to the larger project](https://www.revealnews.org/episodes/the-secret-trump-voter/)
 
 *Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
 
@@ -31,7 +43,8 @@ published: true
 
 ### Portraits of a Trump supporter
 
-[Go to project](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+[Check out the interative](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+[Go to the larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
 
 *Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
 
@@ -41,7 +54,7 @@ published: true
 
 ### When Mad Men meet dark money
 
-[Go to project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+[Go to the larger project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
 
 *In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
 
@@ -53,7 +66,8 @@ published: true
 
 ### Interactive: For disabled patients, an endless cycle of abuse
 
-[Go to project](https://www.revealnews.org/article/interactive-for-disabled-patients-an-endless-cycle-of-abuse/)
+[See the timeline](https://www.revealnews.org/article/interactive-for-disabled-patients-an-endless-cycle-of-abuse/)
+[Go to the larger project](https://www.revealnews.org/episodes/a-mountain-of-misconduct)
 
 *This interactive accompanied Reveal and New Hampshire Public Radio’s [larger investigation](https://www.revealnews.org/episodes/a-mountain-of-misconduct/) into the history of abuse and neglect at a network of family-run neurorehab centers. It takes a deeper look at the major players uncovered while reporting the story, and displays their connections with one another.*
 
