@@ -21,7 +21,7 @@ published: true
 
 ### Decoding the language of discrimination
 
-[Go to the story](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/)
+[Go to the post](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/)
 
 [Go to the larger project](https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/)
 
