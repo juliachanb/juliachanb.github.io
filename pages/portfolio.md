@@ -37,7 +37,7 @@ published: true
 
 [Go to the larger project](https://www.revealnews.org/episodes/the-man-inside-four-months-as-a-prison-guard/)
 
-*I interviewed reporter Shane Bauer for a piece that accompanied the radio documentary Reveal produced about his deeply revelatory investigation of the private prison industry. My story examined what life is like for people on both sides of the bars.*
+*I interviewed reporter Shane Bauer for a piece that accompanied the radio version of his deeply revelatory investigation of the private prison industry. My story examined what life is like for people on both sides of the bars.*
 
 ---
 
@@ -79,6 +79,18 @@ published: true
 
 ---
 
+![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
+
+### When Mad Men meet dark money
+
+[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+
+*In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
+
+*What we ended up doing felt like a holistic way to engage audience members across platforms. On social we had [a video that featured our staffers](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) playing the game with a callout link that brought viewers to a [quiz on our website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/) where they could test themselves. The quiz then pointed back to [the episode](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/) to learn more – and the show, in turn, promoted the online quiz. So whether people were listening to the podcast, engaging on social, or landing on the quiz page, the experience was built to be connected but not redundant.* 
+
+---
+
 ![trump supporters_800.png]({{site.baseurl}}/pages/trump supporters_800.png)
 
 ### Portraits of a Trump supporter
@@ -90,18 +102,6 @@ published: true
 *I worked closely with news applications developer Scott Pham, and other data team members, to build this interactive. I reported and wrote the story, selected the sound bites and photos, and helped to design and conceptualize the interactions.*
 
 *This story was a part of a larger look at Donald Trump supporters – who they are and why they support him.*
-
----
-
-![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
-
-### When Mad Men meet dark money
-
-[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
-
-*In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
-
-*What we ended up doing felt like a holistic way to engage audience members across platforms. On social we had [a video that featured our staffers](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) playing the game with a callout link that brought viewers to a [quiz on our website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/) where they could test themselves. The quiz then pointed back to [the episode](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/) to learn more – and the show, in turn, promoted the online quiz. So whether people were listening to the podcast, engaging on social, or landing on the quiz page, the experience was built to be connected but not redundant.* 
 
 ---
 
@@ -226,10 +226,10 @@ published: true
 
 ![alttext](/img/portfolio_images/lostandfound.png)
 
-### The Lost & The Found
+### Left for dead
 
-[Go to project](lostandfound.revealnews.org)
+[Go to project](https://www.revealnews.org/article/leftfordead/)
 
-*Hodor. Hodor hodor... Hodor hodor hodor hodor. Hodor, hodor. Hodor. Hodor, hodor, hodor. Hodor hodor?! Hodor, hodor. Hodor. Hodor, hodor - hodor hodor! Hodor, hodor, hodor. Hodor hodor hodor. Hodor. Hodor hodor - hodor... Hodor hodor hodor hodor; hodor hodor? Hodor. Hodor HODOR hodor, hodor hodor... Hodor hodor hodor; hodor hodor?! Hodor hodor - hodor hodor; hodor hodor; hodor hodor? Hodor hodor - hodor hodor... Hodor hodor hodor hodor. Hodor. Hodor hodor HODOR! Hodor HODOR hodor, hodor hodor - hodor hodor! Hodor hodor HODOR! Hodor hodor, hodor. Hodor hodor; hodor hodor; hodor hodor - hodor, hodor, hodor hodor. *
+*I helped to coordinate and manage this massive investigation. Reveal's in-depth look at how the U.S. fails missing and unidentified people was a truly multimedia effort. It took shape in a [longform text piece](https://www.revealnews.org/article/leftfordead/), a [serialialized web documentary](https://www.revealnews.org/article/coming-soon-see-our-documentary-series-the-dead-unknown/), a [radio hour](https://www.revealnews.org/episodes/inside-americas-coldest-cases/), community engagement initiatives and a [news app](http://lostandfound.revealnews.org/).*
 
 ---
