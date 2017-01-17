@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![steve walls][({{site.baseurl}}/pages/steve walls foto essay.png)](http://juliachanb.github.io/)
+![steve walls][({{site.baseurl}}/pages/steve walls foto essay.png)](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
 
 ### The secret Trump voter
 
