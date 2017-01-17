@@ -102,7 +102,7 @@ published: true
 
 [Go to project](https://www.revealnews.org/article/jehovahs-witnesses-cover-up-child-sex-abuse-and-oust-a-victim/)
 
-*Utilizing audio from the radio piece, I used [SoundCite](https://soundcite.knightlab.com/) to enhance the online version of Trey Bundy's investigation. I selected photos that would best accompany the audio (and vice versa) and wrote cutlines that set up the sound bites.*
+*Utilizing audio from the radio piece, I used [SoundCite](https://soundcite.knightlab.com/) to enhance the online version of Trey Bundy's investigation. I selected photos that best accompanied the audio (and vice versa) and wrote cutlines to set up the sound bites.*
 
 ---
 
