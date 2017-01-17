@@ -25,7 +25,7 @@ published: true
 
 [Go to the larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
 
-*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+*Working with a template in Audition, I used audio from our radio promos and episode art to produce an quick – and beautiful – "audiogram" for our social channels.* 
 
 ---
 
