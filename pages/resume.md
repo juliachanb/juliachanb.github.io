@@ -114,7 +114,7 @@ ___
 
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
 
-“Get on board: Story- and mood boarding your stories” ‣ [slides](https://docs.google.com/presentation/d/1__DHKmDQSjgQe-RwPAHSJoYzN28zHblaUeavtj0Oxbw/present?slide=id.g35f391192_00)
+“Get on board: Story- and mood boarding your stories” ‣‣ [slides](https://docs.google.com/presentation/d/1__DHKmDQSjgQe-RwPAHSJoYzN28zHblaUeavtj0Oxbw/present?slide=id.g35f391192_00)
 
 **[JACC NorCal conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
 
