@@ -17,6 +17,18 @@ published: true
 
 ## Digital 
 
+![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
+
+### When Mad Men meet dark money
+
+[Go to project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+
+*[In the show](https://soundcloud.com/thisisreveal/unpacking-super-pacs), one of our producers and host Al Letson played “The Super Pac Name Game” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
+
+*What we ended up doing felt like a holistic way to engage audience members across platforms. On social we had [a video](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) that showed our staffers playing the game with a callout link that brought viewers to a [quiz on our website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/) where they could test themselves. The quiz then pointed back to [the show](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/) to learn more – and the show, in turn, promoted the online quiz. So whether people were listening to the podcast, engaging on social, or landing on the quiz page, the experience was built to be connected but not redundant.* 
+
+---
+
 ![NHPR timeline]({{site.baseurl}}/pages/NHPR timeline screenshot.png)
 
 ### Interactive: For disabled patients, an endless cycle of abuse
