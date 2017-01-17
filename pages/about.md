@@ -11,7 +11,7 @@ I'm quick, efficient and accurate – without losing wit or creativity.
 
 Currently, I'm the Digital Editor at [Reveal](https://www.revealnews.org/) and The Center for Investigative Reporting. 
 
-This year I was elected to serve her local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And I'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
+This year I was elected to serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And I'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
 
 The rest of my time will be spent growing [this community of JOCs](https://journalistsofcolor.us/), brainstorming music projects, reading short stories and (let's be honest) watching Netflix.
 
