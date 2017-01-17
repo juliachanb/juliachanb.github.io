@@ -65,7 +65,7 @@ published: true
 
 *I worked closely with news applications developer Scott Pham, and other data team members, to build this interactive. I reported and wrote the story, selected the sound bites and photos, and helped to design and conceptualize the interactions.*
 
-*This story was a part of a larger look at Trump supporters – who they are and why they support Trump.*
+*This story was a part of a larger look at Donald Trump supporters – who they are and why they support him.*
 
 ---
 
