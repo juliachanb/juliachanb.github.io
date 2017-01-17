@@ -23,8 +23,7 @@ Julia works with other editors to identify new ways to tell stories and engage t
 
 Reveal's radio show is broadcast by all of the 10 major markets. 
 
-In November, Reveal's podcast hit one million downloads a month and in December, we reached more than 1.2 million downloads. Reveal podcast listeners are mostly between the ages of 18 and 35.
-
+In November, Reveal's podcast hit one million downloads a month and in December, we reached more than 1.2 million downloads. 67 percent of Reveal podcast listeners are between the ages of 18 to 34 – this is almost twice the national average (38 percent). 
 ___
 
 #### Communications Manager
