@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![bad plea deals]({{site.baseurl}}/pages/bad plea deals.png)
+![motherjonesCCA_800px.jpg]({{site.baseurl}}/pages/motherjonesCCA_800px.jpg)
 
 ### The culture within: Shane Bauer takes us inside a private prison
 
