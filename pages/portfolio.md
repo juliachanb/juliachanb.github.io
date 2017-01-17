@@ -51,7 +51,7 @@ published: true
 
 [Go to project](https://www.revealnews.org/episodes/farm-to-fork-uncovering-hazards-in-our-food-systems/)
 
-*Along with the digital pieces that accompanied this episode, I produced the opening segment as well as the intro to Katherine Mieszkowski's salmonella story. I researched and interviewed workers at the San Francisco Wholesale Produce marketplace, conducted field recordings, prepped host Al Letson on the scene, wrote the scripts and worked with engineer Jim Briggs to produce the story in Pro Tools. *
+*Along with the digital pieces that accompanied this episode, I produced the opening segment as well as the intro to Katherine Mieszkowski's salmonella story. I researched and interviewed workers at the San Francisco Wholesale Produce marketplace, conducted field recordings, prepped host Al Letson on the scene, wrote the scripts and worked with engineer Jim Briggs to produce the story in Pro Tools.*
 
 ---
 
