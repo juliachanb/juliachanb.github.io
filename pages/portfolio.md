@@ -31,7 +31,7 @@ published: true
 
 ---
 
-![illo collage]({{site.baseurl}}/pages/illo collage portfolio_800px.jpg)
+![illo collage screenshot.jpg]({{site.baseurl}}/pages/illo collage screenshot.jpg)
 
 ### Art Direction
 
