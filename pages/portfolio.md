@@ -21,9 +21,9 @@ published: true
 
 ### Decoding the language of discrimination
 
-[Go to the post](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/)
+[Go to post](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/)
 
-[Go to the larger project](https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/)
+[Go to larger project](https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/)
 
 *I used JuxtaposeJS to create an interactive post that highlighed the code words and phrases temp agencies used to discriminate against job applicants based on race and gender. Can you decipher what code words like "small hands" or "code 3" meant?*
 
@@ -33,9 +33,9 @@ published: true
 
 ### The culture within: Shane Bauer takes us inside a private prison
 
-[Go to the story](https://www.revealnews.org/article/the-culture-within-shane-bauer-takes-us-inside-a-private-prison/)
+[Go to story](https://www.revealnews.org/article/the-culture-within-shane-bauer-takes-us-inside-a-private-prison/)
 
-[Go to the larger project](https://www.revealnews.org/episodes/the-man-inside-four-months-as-a-prison-guard/)
+[Go to larger project](https://www.revealnews.org/episodes/the-man-inside-four-months-as-a-prison-guard/)
 
 *I interviewed reporter Shane Bauer for a piece that accompanied the radio version of his deeply revelatory investigation of the private prison industry. My story examined what life is like for people on both sides of the bars.*
 
@@ -45,7 +45,7 @@ published: true
 
 ### Bad deals: The perils of bargaining for justice
 
-[Go to the project](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/)
+[Go to project](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/)
 
 *I coordinated the production and promotion of a serialized, longform investigation on Instagram. The story was first published on the photo-sharing app and then posted, in whole, on our website.*
 
@@ -59,9 +59,9 @@ published: true
 
 ### From A to Zika
 
-[Play the audiogram](https://twitter.com/juliachanb/status/761687005826732032)
+[Play audiogram](https://twitter.com/juliachanb/status/761687005826732032)
 
-[Go to the larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
+[Go to larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
 
 *Working with a template in Audition, I used audio from our radio promos and episode art to produce an quick – and beautiful – "audiogram" for our social channels.* 
 
@@ -71,7 +71,7 @@ published: true
 
 ### The man who saw Donald Trump’s victory coming
 
-[See the photo essay](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
+[See photo essay](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
 
 [Go to the larger project](https://www.revealnews.org/episodes/the-secret-trump-voter/)
 
@@ -95,9 +95,9 @@ published: true
 
 ### Portraits of a Trump supporter
 
-[Check out the interactive](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+[Check out interactive](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
 
-[Go to the larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
+[Go to larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
 
 *I worked closely with news applications developer Scott Pham, and other data team members, to build this interactive. I reported and wrote the story, selected the sound bites and photos, and helped to design and conceptualize the interactions.*
 
@@ -109,8 +109,9 @@ published: true
 
 ### Interactive: For disabled patients, an endless cycle of abuse
 
-[See the timeline](https://www.revealnews.org/article/interactive-for-disabled-patients-an-endless-cycle-of-abuse/)
-[Go to the larger project](https://www.revealnews.org/episodes/a-mountain-of-misconduct)
+[See  timeline](https://www.revealnews.org/article/interactive-for-disabled-patients-an-endless-cycle-of-abuse/)
+
+[Go to larger project](https://www.revealnews.org/episodes/a-mountain-of-misconduct)
 
 *This interactive accompanied Reveal and New Hampshire Public Radio’s [larger investigation](https://www.revealnews.org/episodes/a-mountain-of-misconduct/) into the history of abuse and neglect at a network of family-run neurorehab centers. It takes a deeper look at the major players uncovered while reporting the story, and displays their connections with one another.*
 
