@@ -19,11 +19,11 @@ published: true
 
 ![bad plea deals]({{site.baseurl}}/pages/bad plea deals.png)
 
-### Bad plea deals are no bargain: A serialized Instagram investigation
+###  Bad deals: The perils of bargaining for justice
 
 [Go to the project](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/)
 
-*I coordinated the production and promotion of a longform investigation on Instagram. The story was first published on the photo-sharing app and then posted, in whole, on our website.*
+*I coordinated the production and promotion of a serialized, longform investigation on Instagram. The story was first published on the photo-sharing app and then posted, in whole, on our website.*
 
 *Working with Editor-in-Chief Amy Pyle, the story was split up into 21 chapters – a chapter for every year since Rodney Roberts was convicted in 1996. We rolled out three chapters a day for seven days straight.*
 
