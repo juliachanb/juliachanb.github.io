@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![[steve walls](http://juliachanb.github.io/)]({{site.baseurl}}/pages/steve walls foto essay.png)
+![steve walls][({{site.baseurl}}/pages/steve walls foto essay.png)](http://juliachanb.github.io/)
 
 ### The secret Trump voter
 
