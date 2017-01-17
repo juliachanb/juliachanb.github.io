@@ -41,21 +41,21 @@ ___
 
 #### Online Engagement Coordinator, The I Files
 
-**[The Center for Investigative Reporting](http://www.sfexaminer.com/)**
+**[The Center for Investigative Reporting](http://cironline.org/ifiles)**
 
 *Berkeley, Calif. – June 2012 - July 2013*
 
-Julia managed the social media activities, online community development, communications and marketing of The I Files, YouTube's first investigative news channel. She designed strategies that were measured efficiently and created multimedia content that was widely shared. 
-
-The I Files was a channel – youtube.com/ifiles – thoughtfully curated to showcase the best investigative news videos and documentaries from around the world. The team worked with major contributors including The New York Times, ABC, BBC, Al-Jazeera, ProPublica, Vice, NPR, PBS and the Investigative News Network.
-
-_Fun fact: Its animated video "[In Jennifer's Room](https://www.youtube.com/watch?v=UCoE-DD42c8)" won a national Emmy for "New Approaches: Current News Coverage" – it's considered the first video that premiered on YouTube to win an Emmy._
+Julia managed the social media activities, online community development, communications and marketing of [The I Files](https://www.youtube.com/ifiles), YouTube's first investigative news channel. She designed strategies that were measured efficiently and created multimedia content that was widely shared. 
 
 Her efforts in distribution, promotion and curation for The I Files could be found on [Hulu](http://cironline.org/blog/post/i-files-hits-hulu-scene-4223), [Salon.com](http://www.salon.com/2013/06/16/top_5_investigative_videos_of_the_week_worlds_worst_charities_exposed_partner/) and the [Huffington Post](http://www.huffingtonpost.com/2013/08/10/hilarious-propaganda-videos_n_3727471.html?utm_hp_ref=world).
 
 In one year, she grew The I Files' [Facebook](https://www.facebook.com/TheIFiles/) audience from 0 to over 80,000 likes and its [Tumblr](http://theifiles.tumblr.com/) page to over 18,000 followers. 
 
 YouTube channel subscribers totaled over 14,000, with almost 5 million views logged, by the end of the yearlong project.
+
+The team worked with major contributors including The New York Times, ABC, BBC, Al-Jazeera, ProPublica, Vice, NPR, PBS and the Investigative News Network, to thoughtfully curate and showcase the best investigative news videos and documentaries from around the world. 
+
+_Fun fact: Its animated video "[In Jennifer's Room](https://www.youtube.com/watch?v=UCoE-DD42c8)" won a national Emmy for "New Approaches: Current News Coverage" – it's considered the first video that premiered on YouTube to win an Emmy._
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 *San Francisco – September 2006 - May 2012*
 
-Julia managed sfexaminer.com – this included writing breaking news stories, editing copy, updating the site, setting up photo galleries, overseeing all online blogs and working with the Executive Editor to curate content.
+Julia managed [sfexaminer.com](http://www.sfexaminer.com/) – this included writing breaking news stories, editing copy, updating the site, setting up photo galleries, overseeing all online blogs and working with the Executive Editor to curate content.
 
 She also ...
 
