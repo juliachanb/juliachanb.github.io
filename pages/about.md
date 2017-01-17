@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Hey, there! I'm Julia, a multiplatform journalist who works and plays in the digital space. With more than 10 years of experience in the news industry, I'm well acclimated to high-pressure environments, the nonstop rhythm of news cycles, and the ebb and flow of tech trends.
+Hey, there! I'm Julia, a multiplatform journalist who works and plays in the digital space. With more than 10 years of experience in the news industry, I'm well-acclimated to high-pressure environments, the nonstop rhythm of news cycles, and the ebb and flow of tech trends.
 
 I'm quick, efficient and accurate – without losing wit or creativity.
 
