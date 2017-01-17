@@ -29,6 +29,18 @@ published: true
 
 ---
 
+![zika audiogram]({{site.baseurl}}/pages/zika audiogram.png)
+
+### From A to Zika
+
+[Play the audiogram](https://twitter.com/juliachanb/status/761687005826732032)
+
+[Go to the larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
+
+*Working with a template in Audition, I used audio from our radio promos and episode art to produce an quick – and beautiful – "audiogram" for our social channels.* 
+
+---
+
 ![Steve Walls collage]({{site.baseurl}}/pages/Steve Walls collage.jpg)
 
 ### The man who saw Donald Trump’s victory coming
@@ -192,24 +204,6 @@ published: true
 
 [Go to project](lostandfound.revealnews.org)
 
-*My first major news application project for the Center for Investigative Reporting. This application accompanied our investigation [Left for Dead](http://revealnews.org/leftfordead) which looked into the broken law enforcement systems that prevent unidentified bodies from being identified, and missing persons from being found.*
-
-*The application took data from the NamUs databases of missing and unidentified persons and allows users to search through both databases simultaneously, hopefully making in easier for the public to assist law enforcement in making breakthroughs on cold cases. I was responsible for the design and interaction of the site.*
+*Hodor. Hodor hodor... Hodor hodor hodor hodor. Hodor, hodor. Hodor. Hodor, hodor, hodor. Hodor hodor?! Hodor, hodor. Hodor. Hodor, hodor - hodor hodor! Hodor, hodor, hodor. Hodor hodor hodor. Hodor. Hodor hodor - hodor... Hodor hodor hodor hodor; hodor hodor? Hodor. Hodor HODOR hodor, hodor hodor... Hodor hodor hodor; hodor hodor?! Hodor hodor - hodor hodor; hodor hodor; hodor hodor? Hodor hodor - hodor hodor... Hodor hodor hodor hodor. Hodor. Hodor hodor HODOR! Hodor HODOR hodor, hodor hodor - hodor hodor! Hodor hodor HODOR! Hodor hodor, hodor. Hodor hodor; hodor hodor; hodor hodor - hodor, hodor, hodor hodor. *
 
 ---
-
-![Engine Collograph](/img/portfolio_images/Engine1.jpg)
-
-*Layered collograph depicting an engine.*
-
----
-
-![Black and white portrait](/img/portfolio_images/portrait.jpg)
-
-*Pencil and paper portrait.*
-
----
-
-![Pastel portraits](/img/portfolio_images/double_portrait.jpg)
-
-*Portrait, and portrait copy. Blue and orange pastels on blue paper.*
