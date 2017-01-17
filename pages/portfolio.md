@@ -91,31 +91,6 @@ published: true
 
 ---
 
-![Trump supporters](/img/portfolio_images/trump.png)
-
-### Illustration: Trump Supporters
-
-[Go to project](https://www.revealnews.org/episodes/pumped-on-trump/)
-
-*Illustration for Reveal's "Pumped on Trump" episode, which examined Donald Trump's supporters in the 2016 presidential race.*
-
----
-
-![Child abuse at religious daycare](/img/portfolio_images/child_abuse.png)
-
-*[Illustrations](https://www.revealnews.org/blog/from-hot-hands-to-banana-pinches-church-day-cares-are-hurting-kids-and-getting-away-with-it/) to accompany a Reveal investigation into abuses at religious daycares, which in many states do not face the same regulations as other daycares. The illustrations show the different punishments religious daycares were found to use on their small children.*
-
----
-
-![Student Reporting Labs achievement badges](/img/portfolio_images/badges.png)
-
-### Achievement Badges: PBS NewsHour Student Reporting Labs
-
-*These badges were designed to mark and reward student achievements in the [PBS NewsHour Student Reporting Labs](http://studentreportinglabs.com)(SRL) program. SRL offers a comprehensive curriculum to introduce middle and high school students to video journalism, and is being used in more than 60 schools around the country.*
-
----
-
-
 <a class="anchor" name="projectmanagement"></a>
 
 ## Project Management 
