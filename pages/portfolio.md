@@ -80,6 +80,16 @@ published: true
 
 ---
 
+![jw audio]({{site.baseurl}}/pages/jw audio.png)
+
+### Jehovah’s Witnesses cover up child sex abuse and oust a victim
+
+[Go to project](https://www.revealnews.org/article/jehovahs-witnesses-cover-up-child-sex-abuse-and-oust-a-victim/)
+
+*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.*
+
+---
+
 ![illo collage screenshot.jpg]({{site.baseurl}}/pages/illo collage screenshot.jpg)
 
 ### Art Direction
