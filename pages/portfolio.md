@@ -79,6 +79,17 @@ published: true
 
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/246609137&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+### Another look at the perilous price of American energy
+
+[Go to project](https://www.revealnews.org/episodes/another-look-at-the-perilous-price-of-american-energy/)
+
+*I was the lead producer on this episode and produced the updates. These updates included new sound and interviews from the StoryWorks play, "North by Inferno" – a stage production inspired by Reveal's investigation of North Dakota’s [Bakken oil boom](https://www.revealnews.org/article/in-north-dakotas-bakken-oil-boom-there-will-be-blood/); working with KUOW reporter Ashley to update her story about "[Tracking oil trains](https://www.revealnews.org/episodes/power-struggle-the-perilous-price-of-americas-energy-boom/#segment-tracking-oil-trains);" and reaching out to reporter Michael Corey and StateImpact Oklahoma's Joe Wertz to update their investigation into man-made earthquakes.*
+
+---
+
+
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/255090922&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
 
 ### New day dawning on the night shift
