@@ -34,6 +34,7 @@ published: true
 ### The man who saw Donald Trump’s victory coming
 
 [See the photo essay](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
+
 [Go to the larger project](https://www.revealnews.org/episodes/the-secret-trump-voter/)
 
 *Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
@@ -45,6 +46,7 @@ published: true
 ### Portraits of a Trump supporter
 
 [Check out the interative](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+
 [Go to the larger project](https://www.revealnews.org/episodes/pumped-on-trump/)
 
 *Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
@@ -55,7 +57,7 @@ published: true
 
 ### When Mad Men meet dark money
 
-[Go to the larger project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
 
 *In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
 
