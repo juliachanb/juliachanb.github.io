@@ -114,19 +114,19 @@ ___
 
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
 
-“Get on board: Story- and mood boarding your stories”
+“Get on board: Story- and mood boarding your stories” | [slides](https://docs.google.com/presentation/d/1__DHKmDQSjgQe-RwPAHSJoYzN28zHblaUeavtj0Oxbw/present?slide=id.g35f391192_00)
 
 **[JACC NorCal conference](http://jacconline.org/norcal-2016/), Oct. 2016 – Pittsburg, Calif.**
 
-“Making Moves: What Investigative Journalism Across Platforms Looks Like”
+“Making Moves: What Investigative Journalism Across Platforms Looks Like” | [slides](https://docs.google.com/presentation/d/1yssSAfQiRWnAwx_sy4z415fOFJMs5A3hym8QGU3z9Sw/present?slide=id.g35f391192_00)
 
 **[ONA16](http://ona16.journalists.org/), Sept. 2016 – Denver**
 
-“Story, Platform and Design: Digital Journalism Insights”
+“Story, Platform and Design: Digital Journalism Insights” 
 
 **[AAJA16](http://www.aaja.org/category/convention/las-vegas-2016/), Aug. 2016 – Las Vegas**
 
-“Graphics on the Go: How Small Teams Can Create Shareable Dataviz”
+“Graphics on the Go: How Small Teams Can Create Shareable Dataviz” | [slides](https://docs.google.com/presentation/d/19TBFu7bHjkZXRI_Fa7uXavKtlxtQ7Rz8FysyU3kWSx0/present?slide=id.g35f391192_00)
 
 **[NICAR16](https://ire.org/conferences/nicar2016/), March 2016 – Denver**
 
