@@ -47,11 +47,15 @@ published: true
 
 ![Farm to fork](/img/portfolio_images/food_illo.png)
 
-### Illustration: Farm to Fork
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/274937363&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
+https://soundcloud.com/thisisreveal/update-farm-to-fork-uncovering-hazards-in-our-food-systems
+
+### "Farm to fork" segments
 
 [Go to project](https://www.revealnews.org/episodes/farm-to-fork-uncovering-hazards-in-our-food-systems/)
 
-*Illustration for Reveal's "Farm to Fork" episode, which exposed the pathways that our food take on the way to the supermarket.*
+*Along with the digital pieces that accompanied this episode, I produced the opening segment as well as the intro to Katherine Mieszkowski's salmonella story. I researched and interviewed workers at the San Francisco Wholesale Produce marketplace, conducted field recordings, prepped host Al Letson on the scene, wrote the scripts and worked with engineer Jim Briggs to produce the story in Pro Tools. *
 
 ---
 
