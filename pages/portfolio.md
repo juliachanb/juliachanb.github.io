@@ -17,9 +17,9 @@ published: true
 
 ## Digital 
 
-![steve walls]({{site.baseurl}}/pages/steve walls foto essay.png)
+![Steve Walls collage.jpg]({{site.baseurl}}/pages/Steve Walls collage.jpg)
 
-### The secret Trump voter
+### The man who saw Donald Trump’s victory coming
 
 [Go to project](https://www.revealnews.org/article/the-man-who-saw-donald-trumps-victory-coming/)
 
