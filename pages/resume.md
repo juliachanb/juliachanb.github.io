@@ -35,7 +35,7 @@ With a small team, she created and executed social media and community engagemen
 
 Julia led community engagement projects such as [StoryWorks](https://storyworks.revealnews.org/), the [UN\|PUBLISHED film festival](http://blog.sfgate.com/artsandnot/2014/06/20/investigation-on-screen/) and [Dialed In](http://cironline.org/dialedin) to better connect CIR stories and projects to different audiences. She nurtured and cultivated strategic partnerships – with organizations like [Soundcloud](http://cironline.org/blog/post/what-does-news-sound-techraking-four-looks-clouds-5396) and [Google](http://cironline.org/blog/post/join-our-live-coverage-cirs-techraking-conference-toronto-6193) – for collaborations and events. She also provided support and consultation to the Director of Events for [Techraking](https://www.revealnews.org/events-page/techraking/), CIR's mini-conference series dedicated to pairing journalists with innovators.
 
-She also helped to develop "[Reveal Radio](http://revealradio.org/tag/09-28-2013/)" when it was just a glimmer in Joaquin's eye.
+She also helped to develop "[Reveal Radio](http://revealradio.org/tag/09-28-2013/)" when it was just a glimmer in [Joaquin's eye](http://www.cjr.org/behind_the_news/reveal_and_the_new_push_for_po.php).
 
 ___
 
