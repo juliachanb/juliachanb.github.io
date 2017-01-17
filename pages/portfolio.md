@@ -31,15 +31,13 @@ published: true
 
 ---
 
-![alttext](/img/portfolio_images/lostandfound.png)
+![illo collage]({{site.baseurl}}/pages/illo collage portfolio_800px.jpg)
 
-### The Lost & The Found
+### Art Direction
 
-[Go to project](lostandfound.revealnews.org)
+[Go to projects](https://www.revealnews.org/episodes)
 
-*My first major news application project for the Center for Investigative Reporting. This application accompanied our investigation [Left for Dead](http://revealnews.org/leftfordead) which looked into the broken law enforcement systems that prevent unidentified bodies from being identified, and missing persons from being found.*
-
-*The application took data from the NamUs databases of missing and unidentified persons and allows users to search through both databases simultaneously, hopefully making in easier for the public to assist law enforcement in making breakthroughs on cold cases. I was responsible for the design and interaction of the site.*
+*I work with a variety of artists and illustrations to create original artwork for every episode of Reveal.*
 
 ---
 
