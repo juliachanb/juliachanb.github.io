@@ -17,15 +17,17 @@ published: true
 
 ## Digital 
 
-![zika audiogram]({{site.baseurl}}/pages/zika audiogram.png)
+![bad plea deals]({{site.baseurl}}/pages/bad plea deals.png)
 
-### From A to Zika
+### Bad plea deals are no bargain: A serialized Instagram investigation
 
-[Play the audiogram](https://twitter.com/juliachanb/status/761687005826732032)
+[Go to the project](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/)
 
-[Go to the larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
+*I coordinated the production and promotion of a longform investigation on Instagram. The story was first published on the photo-sharing app and then posted, in whole, on our website.*
 
-*Working with a template in Audition, I used audio from our radio promos and episode art to produce an quick – and beautiful – "audiogram" for our social channels.* 
+*Working with Editor-in-Chief Amy Pyle, the story was split up into 21 chapters – a chapter for every year since Rodney Roberts was convicted in 1996. We rolled out three chapters a day for seven days straight.*
+
+*By the end of the experiment, we racked up 706 likes and a 53 percent growth in followers.*
 
 ---
 
