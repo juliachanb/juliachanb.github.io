@@ -27,7 +27,7 @@ published: true
 
 *Working with Editor-in-Chief Amy Pyle, the story was split up into 21 chapters – a chapter for every year since Rodney Roberts was convicted in 1996. We rolled out three chapters a day for seven days straight.*
 
-*By the end of the experiment, we racked up 706 likes and a 53 percent growth in followers.*
+*By the end of the experiment, we racked up 706 likes and saw a 53 percent growth in followers.*
 
 ---
 
