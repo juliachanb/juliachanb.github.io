@@ -55,7 +55,7 @@ published: true
 
 ---
 
-![fran trump]({{site.baseurl}}/pages/fran trump screenshot.png)
+![trump supporters_800.png]({{site.baseurl}}/pages/trump supporters_800.png)
 
 ### Portraits of a Trump supporter
 
