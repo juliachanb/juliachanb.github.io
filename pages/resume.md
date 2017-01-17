@@ -21,6 +21,8 @@ She's led the production of digital content for [67 Reveal episodes](https://www
 
 Julia works with other editors to identify new ways to tell stories and engage the audience on the investigations Reveal produces. In 2016, she used [JuxtaposeJS](https://juxtapose.knightlab.com/) in an offbeat way to "[Decode the language of discrimination](https://www.revealnews.org/blog/decoding-the-language-of-discrimination/);" she [learned key lessons](http://www.poynter.org/2016/4-lessons-from-reveals-serialized-instagram-investigation/428047/) from publishing [Reveal's first Instagram investigation](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/); found compelling ways to use audio, collected or produced during the radio reporting process, online (Examples [1](https://www.revealnews.org/article/portraits-of-a-trump-supporter/), [2](https://twitter.com/juliachanb/status/761687005826732032) and [3](https://www.revealnews.org/article/caught-on-tape-the-presidential-edition/)); and created a holistic campaign to engage audience members across platforms ([radio/podcast](https://soundcloud.com/thisisreveal/unpacking-super-pacs#t=11:44), [social video](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) and [website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/)) about Super Pacs. 
 
+In November, Reveal's podcast hit one million downloads a month and in December, we reached more than 1.2 million downloads. Reveal podcast listeners are mostly between the ages of 18 and 35.
+
 ___
 
 #### Communications Manager
