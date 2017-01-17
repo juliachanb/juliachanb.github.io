@@ -19,7 +19,19 @@ published: true
 
 ![bad plea deals]({{site.baseurl}}/pages/bad plea deals.png)
 
-###  Bad deals: The perils of bargaining for justice
+### The culture within: Shane Bauer takes us inside a private prison
+
+[Go to the story](https://www.revealnews.org/article/the-culture-within-shane-bauer-takes-us-inside-a-private-prison/)
+
+[Go to the larger project](https://www.revealnews.org/episodes/the-man-inside-four-months-as-a-prison-guard/)
+
+*I interviewed reporter Shane Bauer for a piece that accompanied the radio documentary Reveal produced about his deeply revelatory investigation of the private prison industry. My story examined what life is like for people on both sides of the bars.*
+
+---
+
+![bad plea deals]({{site.baseurl}}/pages/bad plea deals.png)
+
+### Bad deals: The perils of bargaining for justice
 
 [Go to the project](https://www.revealnews.org/article/bad-deals-the-perils-of-bargaining-for-justice/)
 
