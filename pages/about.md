@@ -13,7 +13,7 @@ Currently, I'm the Digital Editor at [Reveal](https://www.revealnews.org/) and T
 
 This year I was elected to serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And I'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
 
-The rest of my time will be spent growing [this community of JOCs](https://journalistsofcolor.us/), brainstorming music projects, reading short stories and (let's be honest) watching Netflix.
+The rest of my time will be spent growing [this Journalists of Color community](https://journalistsofcolor.us/), brainstorming music projects, reading short stories and (let's be honest) watching Netflix.
 
 I live in San Francisco and drive an electric car. 
 
