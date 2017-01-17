@@ -224,12 +224,12 @@ published: true
 
 ## Project Management 
 
-![alttext](/img/portfolio_images/lostandfound.png)
+![Harlan graveyard_800.png]({{site.baseurl}}/pages/Harlan graveyard_800.png)
 
 ### Left for dead
 
 [Go to project](https://www.revealnews.org/article/leftfordead/)
 
-*I helped to coordinate and manage this massive investigation. Reveal's in-depth look at how the U.S. fails missing and unidentified people was a truly multimedia effort. It took shape in a [longform text piece](https://www.revealnews.org/article/leftfordead/), a [serialialized web documentary](https://www.revealnews.org/article/coming-soon-see-our-documentary-series-the-dead-unknown/), a [radio hour](https://www.revealnews.org/episodes/inside-americas-coldest-cases/), community engagement initiatives and a [news app](http://lostandfound.revealnews.org/).*
+*I helped to coordinate and manage this massive investigation. Reveal's in-depth look at how the U.S. fails missing and unidentified people was a truly multimedia effort. It took shape in a [longform text piece](https://www.revealnews.org/article/leftfordead/), a [serialialized web documentary](https://www.revealnews.org/article/coming-soon-see-our-documentary-series-the-dead-unknown/), a [radio hour](https://www.revealnews.org/episodes/inside-americas-coldest-cases/), community engagement initiatives, and a [news app](http://lostandfound.revealnews.org/).*
 
 ---
