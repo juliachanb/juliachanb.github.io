@@ -17,6 +17,16 @@ published: true
 
 ## Digital 
 
+![fran trump]({{site.baseurl}}/pages/fran trump screenshot.png)
+
+### Portraits of a Trump supporter
+
+[Go to project](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)
+
+*Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor hodor hodor? Hodor! Hodor hodor, hodor; hodor hodor hodor hodor? Hodor, hodor... Hodor hodor hodor? Hodor hodor HODOR! Hodor hodor... Hodor hodor hodor.* 
+
+---
+
 ![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
 
 ### When Mad Men meet dark money
