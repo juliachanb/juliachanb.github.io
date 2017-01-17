@@ -101,7 +101,7 @@ ___
 #### Diversity and Inclusion Leader
 **[The Center for Investigative Reporting](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
 
-Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hiring-by-committee – a new practice that provides support to hiring managers and brings employees from around the newsroom, and with different backgrounds, to the table. 
+Julia is an integral member of CIR's Diversity Committee which spurred initiatives such as the [Investigative Fellows program](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/). She suggested and helped to implement hire-by-committee – a new practice that provides support to hiring managers and brings employees from around the newsroom, and with different backgrounds, to the table. 
 
 #### Instructor 
 **[Bay Area Video Coalition](https://www.bavc.org/)**
