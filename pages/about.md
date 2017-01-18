@@ -6,6 +6,7 @@ published: true
 ---
 
 
+
 Hey, there! I’m Julia, a multiplatform journalist, project manager and digital strategist. I've worked in the news industry for more than 10 years, managing and leading editorial content, story production and audience engagement for breaking news and long-form investigative work.
 
 Currently, I’m the Digital Editor at [Reveal and The Center for Investigative Reporting](https://www.revealnews.org/) and have helped grow the organization's audiences, editorial content and digital offerings. 
