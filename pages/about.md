@@ -5,18 +5,15 @@ permalink: /about/
 published: true
 ---
 
-Hey, there! I'm Julia, a multiplatform journalist who works and plays in the digital space. With more than 10 years of experience in the news industry, I'm well-acclimated to high-pressure environments, the nonstop rhythm of news cycles, and the ebb and flow of tech trends.
 
-I'm quick, efficient and accurate – without losing wit or creativity.
+Hey, there! I’m Julia, a multiplatform journalist, project manager and digital strategist. I've worked in the news industry for more than 10 years, managing and leading editorial content, story production and audience engagement for breaking news and long-form investigative work.
 
-Currently, I'm the Digital Editor at [Reveal](https://www.revealnews.org/) and The Center for Investigative Reporting. 
+Currently, I’m the Digital Editor at [Reveal](https://www.revealnews.org/) and The Center for Investigative Reporting and have helped grow the organization's audiences, editorial content and digital offerings. 
 
-This year I was elected to serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President. And I'll be participating in the [2017 Women's Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association. 
+Outside of the newsroom, I spend much of my time furthering the journalism community. I serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President and I founded [Journalists of Color](https://journalistsofcolor.us/), a national community of digitally savvy and diverse journalists. 
 
-The rest of my time will be spent growing [this Journalists of Color community](https://journalistsofcolor.us/), brainstorming music projects, reading short stories and (let's be honest) watching Netflix.
+This year, I’ll be participating in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
 
-I live in San Francisco and drive an electric car. 
+I live in San Francisco and drive an electric car. I’m aware of how clichéd that sounds.
 
-I'm aware of how clichéd that sounds.
-
-To the [resume](/resume/)!
+To the [résumé](/resume/)!
