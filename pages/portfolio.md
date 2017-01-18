@@ -17,6 +17,16 @@ published: true
 
 ## Digital 
 
+![ewaste text_800px.png]({{site.baseurl}}/pages/ewaste text_800px.png)
+
+### Looks are deceiving in Chinese town that was US e-waste dumping site
+
+[Go to story](https://www.revealnews.org/article/looks-are-deceiving-in-chinese-town-that-was-us-e-waste-dumping-site/)
+
+*I edited this story for our "[America's digital dumping ground](https://www.revealnews.org/episodes/americas-digital-dumping-ground/)" project.*
+
+---
+
 ![code words]({{site.baseurl}}/pages/code words_shorter.png)
 
 ### Decoding the language of discrimination
