@@ -17,7 +17,7 @@ published: true
 
 ## Digital 
 
-![ewaste text_800px.png]({{site.baseurl}}/pages/ewaste text_800px.png)
+![ewaste text foto]({{site.baseurl}}/pages/ewaste text_800px.png)
 
 ### Looks are deceiving in Chinese town that was US e-waste dumping site
 
