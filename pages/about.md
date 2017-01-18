@@ -14,6 +14,6 @@ Outside of the newsroom, I spend much of my time furthering the journalism commu
 
 This year, I’ll be participating in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
 
-I live in San Francisco and drive an electric car. I’m aware of how clichéd that sounds.
+I live in San Francisco and drive an electric car – I’m aware of how clichéd that sounds.
 
 To the [résumé](/resume/)!
