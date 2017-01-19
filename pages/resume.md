@@ -143,7 +143,7 @@ ___
 
 **2016 News & Documentary Emmy Award**
 
-- Won in the "New Approaches: Current News Coverage" category for multimedia project and investigation, "The Dead Unknown."
+> Won in the "New Approaches: Current News Coverage" category for multimedia project and investigation, "The Dead Unknown."
 
 **2016 National Edward R. Murrow Award for Overall Excellence**
 
