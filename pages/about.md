@@ -11,7 +11,7 @@ Hey, there! I’m Julia, a multiplatform journalist, project manager and digital
 
 I've worked in the news industry for more than 10 years, managing and leading editorial content, story production and audience engagement for breaking news and long-form investigative work.
 
-Currently, I’m the Digital Editor at [Reveal and The Center for Investigative Reporting](https://www.revealnews.org/) and have helped grow the organization's audiences, editorial content and digital offerings. 
+Currently, I’m the Digital Editor at [Reveal and The Center for Investigative Reporting](https://www.revealnews.org/) and have helped grow the organization's audiences, editorial strategy and digital offerings. 
 
 Outside of the newsroom, I spend much of my time furthering the journalism community. I serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President and I founded [Journalists of Color](https://journalistsofcolor.us/), a national community of digitally savvy and diverse journalists. 
 
