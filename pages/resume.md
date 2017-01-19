@@ -159,7 +159,7 @@ ___
 
 **2013 Peabody Award**
 
-- Reveal won for its shocking radio report about overdose deaths at Veterans Administration hospitals: "The VA’s Opiate Overload."
+- Reveal won for its radio investigation of overdose deaths at Veterans Administration hospitals: "The VA’s Opiate Overload."
 
 **2013 News & Information Webby Honoree**
 
