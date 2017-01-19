@@ -139,6 +139,14 @@ ___
 
 ___
 
+## **Recognition**
+
+**2016 News & Documentary Emmy Award**
+
+Won in the "New Approaches: Current News Coverage" category for multimedia project and investigation, "The Dead Unknown."
+
+___
+
 
 ## **Skills**
 
