@@ -143,7 +143,7 @@ ___
 
 **2016 News & Documentary Emmy Award**
 
-- Reveal won in the "New Approaches: Current News Coverage" category for "The Dead Unknown," a multimedia investigation.
+- Reveal won in the New Approaches: Current News Coverage category for "The Dead Unknown," a multimedia project and investigation.
 
 **2016 National Edward R. Murrow Award for Overall Excellence**
 
