@@ -139,7 +139,7 @@ ___
 
 ___
 
-## **Recognition**
+## **Awards/Honors**
 
 **2016 News & Documentary Emmy Award**
 
