@@ -145,6 +145,18 @@ ___
 
 Won in the "New Approaches: Current News Coverage" category for multimedia project and investigation, "The Dead Unknown."
 
+**2016 National Edward R. Murrow Award for Overall Excellence**
+
+Won in the Small Online News Organization category.
+
+**2016 National Edward R. Murrow Award for Website**
+
+Won in the Small Online News Organization category.
+
+**2015 Finalist for Online Journalism Award – General Excellence**
+
+Honored in the Medium category.
+
 ___
 
 
