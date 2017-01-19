@@ -117,9 +117,9 @@ ___
 
 ## **Panels/Presentations**
 
-**[AAJA panel](https://twitter.com/ucbsoj/status/805948567512707072), Dec. 2016 – UC Berkeley Graduate School of Journalism**
+**[Off The Record for AAJA](https://twitter.com/ucbsoj/status/805948567512707072), Dec. 2016 – UC Berkeley Graduate School of Journalism**
 
-"Off The Record: Journalism and AAPI communities"
+"Journalism and AAPI communities"
 
 **[Mozfest](https://mozillafestival.org/), Oct. 2016 – London**
 
