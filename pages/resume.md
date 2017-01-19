@@ -143,13 +143,23 @@ ___
 
 **2016 News & Documentary Emmy Award**
 
-> Won in the "New Approaches: Current News Coverage" category for multimedia project and investigation, "The Dead Unknown."
+- Reveal won in the "New Approaches: Current News Coverage" category for "The Dead Unknown," a multimedia investigation.
 
 **2016 National Edward R. Murrow Award for Overall Excellence**
 
 **2016 National Edward R. Murrow Award for Website**
 
 **2015 Finalist for Online Journalism Award – General Excellence**
+
+**2015 Finalist for Online Journalism Award – Pro-am Student Projects**
+
+**2015 Finalist for National Awards for Education Reporting**
+
+**2014 Finalist for IRE Award – Multiplatform**
+
+**2013 Peabody Award**
+
+- Reveal won for its shocking radio report about overdose deaths at Veterans Administration hospitals: "The VA’s Opiate Overload."
 
 ___
 
