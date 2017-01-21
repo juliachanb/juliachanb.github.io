@@ -35,7 +35,7 @@ published: true
 
 [Go to larger project](https://www.revealnews.org/article/when-companies-hire-temp-workers-by-race-black-applicants-lose-out/)
 
-*I used JuxtaposeJS to create an interactive post that highlighed the code words and phrases temp agencies used to discriminate against job applicants based on race and gender. Can you decipher what code words like "small hands" or "code 3" meant?*
+*I used JuxtaposeJS to create an interactive post that highlighed the code words and phrases temp agencies used to discriminate against job applicants based on race and gender. Can you decipher what terms like "small hands" or "code 3" meant?*
 
 ---
 
@@ -61,7 +61,7 @@ published: true
 
 *Working with Editor-in-Chief Amy Pyle, the story was split up into 21 chapters – a chapter for every year since Rodney Roberts was convicted in 1996. We rolled out three chapters a day for seven days straight.*
 
-*By the end of the experiment, we racked up 706 likes and saw a 53 percent growth in followers.*
+*By the end of the experiment, we picked up 706 likes and saw a 53 percent growth in followers.*
 
 ---
 
@@ -73,7 +73,7 @@ published: true
 
 [Go to larger project](https://www.revealnews.org/episodes/from-a-to-zika/)
 
-*Working with a template in Audition, I used audio from our radio promos and episode art to produce an quick – and beautiful – "audiogram" for our social channels.* 
+*Working with a template in Audition, I used audio from our radio promos and episode art to produce a quick – and beautiful – "audiogram" to use on our social channels.* 
 
 ---
 
