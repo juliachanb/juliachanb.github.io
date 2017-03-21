@@ -15,7 +15,7 @@ Currently, I’m the Digital Editor at [Reveal and The Center for Investigative 
 
 Outside of the newsroom, I spend much of my time furthering the journalism community. I serve my local chapter of the [Asian American Journalists Association](http://www.aaja.org/) as President and I founded [Journalists of Color](https://journalistsofcolor.us/), a national community of digitally savvy and diverse journalists. 
 
-This year, I’ll be participating in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
+In February, I participated in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
 
 I live in San Francisco and drive an electric car – I’m aware of how clichéd that sounds.
 
