@@ -17,6 +17,17 @@ published: true
 
 ## Digital 
 
+![standing rock vid]({{site.baseurl}}/pages/standing rock vid_800px.png)
+
+### Faces and voices from the stand at Standing Rock
+
+[Go to story](https://www.revealnews.org/article/a-look-back-at-the-stand-at-standing-rock/)
+[Go to video](https://www.youtube.com/watch?v=rcWjv3RznBA)
+
+*Managing several filmmakers-in-residence, I directed and produced this video for Reveal.*
+
+---
+
 ![ewaste text foto]({{site.baseurl}}/pages/ewaste text_800px.png)
 
 ### Looks are deceiving in Chinese town that was US e-waste dumping site
