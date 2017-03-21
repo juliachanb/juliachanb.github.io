@@ -223,11 +223,17 @@ published: true
 
 ## Project Management 
 
+![Orlando]({{site.baseurl}}/pages/orlando sonic memorial_800px.png)
+
 ### After Orlando
 
 [Go to project](https://www.revealnews.org/blog/reveals-most-memorable-moments-according-to-you/)
 
-*This show was the first time we turned around an episode in a week – and with that came quick thinking and production. We were able to memorialize the victims by using snippets of their lives found on social media as vignettes heard throughout the hour. I produced these vignettes and  coordinated with the San Francisco Gay Men's Chorus to use their stirring tribute for the top of the show.*
+*In June, the nation was stunned by the mass shooting at the Pulse nightclub in Orlando, Florida. We decided to jump on this major story for the radio show – it would be the first time we produced an episode in less than a week.*
+
+*I led and coordinated our audio, digital and engagement strategies which included the production of [vignettes that memorialized victims](https://soundcloud.com/thisisreveal/after-orlando#t=16:29) using snippets of their lives found on social media; the radio team and the data team worked together to produce [a sonic memorial using data sonification](https://www.revealnews.org/blog/a-sonic-memorial-to-the-victims-at-orlandos-pulse-nightclub/), Scott and I took [a look at the lone wolf phenomena](https://www.revealnews.org/article/this-is-what-lone-wolf-terrorism-looks-like-in-the-us/) using a report from the Southern Poverty Law Center; and on our social channels, we shared stories about [mass shootings in America](https://twitter.com/reveal/status/745664036411310080).*
+
+*On the community engagement front, we worked with Hearken to seed the question, “[What do you want to know about mass shootings in America?](https://www.revealnews.org/blog/what-do-you-want-to-know-about-mass-shootings-in-america/)” – a campaign that is now helping us pursue audience-powered investigations.*
 
 ---
 
