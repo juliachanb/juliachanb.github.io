@@ -241,7 +241,7 @@ published: true
 
 ### When Mad Men meet dark money
 
-[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+[Go to project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
 
 *In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs#t=11:44)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
 
