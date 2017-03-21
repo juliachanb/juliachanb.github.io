@@ -89,18 +89,6 @@ published: true
 
 ---
 
-![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
-
-### When Mad Men meet dark money
-
-[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
-
-*In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs#t=11:44)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
-
-*What we ended up doing felt like a holistic way to engage audience members across platforms. On social we had [a video that featured our staffers](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) playing the game with a callout link that brought viewers to a [quiz on our website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/) where they could test themselves. The quiz then pointed back to [the episode](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/) to learn more – and the show, in turn, promoted the online quiz. So whether people were listening to the podcast, engaging on social, or landing on the quiz page, the experience was built to be connected but not redundant.* 
-
----
-
 ![trump supporters_800px.png]({{site.baseurl}}/pages/trump supporters_800px.png)
 
 ### Portraits of a Trump supporter
@@ -183,7 +171,7 @@ published: true
 
 ### After Orlando
 
-[Go to project](https://www.revealnews.org/blog/reveals-most-memorable-moments-according-to-you/)
+[Go to project](https://www.revealnews.org/episodes/after-orlando/)
 
 *This show was the first time we turned around an episode in a week – and with that came quick thinking and production. We were able to memorialize the victims by using snippets of their lives found on social media as vignettes heard throughout the hour. I produced these vignettes and  coordinated with the San Francisco Gay Men's Chorus to use their stirring tribute for the top of the show.*
 
@@ -234,6 +222,26 @@ published: true
 <a class="anchor" name="projectmanagement"></a>
 
 ## Project Management 
+
+### After Orlando
+
+[Go to project](https://www.revealnews.org/blog/reveals-most-memorable-moments-according-to-you/)
+
+*This show was the first time we turned around an episode in a week – and with that came quick thinking and production. We were able to memorialize the victims by using snippets of their lives found on social media as vignettes heard throughout the hour. I produced these vignettes and  coordinated with the San Francisco Gay Men's Chorus to use their stirring tribute for the top of the show.*
+
+---
+
+![super pac name game]({{site.baseurl}}/pages/super pac name game_800px.png)
+
+### When Mad Men meet dark money
+
+[Go to the project](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/)
+
+*In the show, one of our producers and host Al Letson played “[The Super Pac Name Game](https://soundcloud.com/thisisreveal/unpacking-super-pacs#t=11:44)” in which Al had to guess the political affiliations of super pacs based solely on its name. The production of this really inspired the digital strategy for me.*
+
+*What we ended up doing felt like a holistic way to engage audience members across platforms. On social we had [a video that featured our staffers](https://www.facebook.com/ThisIsReveal/videos/1031704153587169/?hc_ref=SEARCH) playing the game with a callout link that brought viewers to a [quiz on our website](https://www.revealnews.org/article/pop-quiz-unpacking-super-pacs/) where they could test themselves. The quiz then pointed back to [the episode](https://www.revealnews.org/episodes/when-mad-men-meet-dark-money/) to learn more – and the show, in turn, promoted the online quiz. So whether people were listening to the podcast, engaging on social, or landing on the quiz page, the experience was built to be connected but not redundant.* 
+
+---
 
 ![Harlan graveyard_800.png]({{site.baseurl}}/pages/Harlan graveyard_800.png)
 
