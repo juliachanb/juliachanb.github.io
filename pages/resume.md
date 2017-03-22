@@ -175,7 +175,7 @@ ___
 ## **Skills**
 
 #### Applications:
-Adobe Photoshop, Adobe InDesign, Adobe InCopy, Adobe Audition, Pro Tools, Wordpress
+Adobe Photoshop, Adobe InDesign, Adobe InCopy, Adobe Premiere, Adobe Audition, Pro Tools, Wordpress
 
 
 #### Languages:
