@@ -17,6 +17,6 @@ Outside of the newsroom, I spend much of my time furthering the journalism commu
 
 In February, I participated in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
 
-I live in San Francisco, drive an electric car and have a Pomeranian sidekick.
+I live in San Francisco, drive an electric car and have a [Pomeranian sidekick](https://www.instagram.com/p/9jjoFmzRBz/?taken-by=juliachanb).
 
 To the [résumé](/resume/)!
