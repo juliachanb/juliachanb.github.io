@@ -117,6 +117,10 @@ ___
 
 ## **Panels/Presentations**
 
+**[Come and Play audio hackathon](http://www.comeandplay.org/), May 2017 – Thoughtworks, San Francisco, Calif.**
+
+"Audio and Audience"
+
 **[Off The Record for AAJA](https://twitter.com/ucbsoj/status/805948567512707072), Dec. 2016 – UC Berkeley Graduate School of Journalism**
 
 "Journalism and AAPI communities"
