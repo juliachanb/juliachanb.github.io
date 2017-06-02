@@ -97,11 +97,11 @@ ___
 #### 2017 Fellow, Women’s Leadership Accelerator 
 **[The Online News Association](https://journalists.org/2016/12/20/ona-announces-class-for-2017-womens-leadership-accelerator/)**
 
+#### 2017 Governing Board Representative, AAJA
+**[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
+
 #### 2017 President, AAJA-SF Chapter
 **[Asian American Journalist Association](http://www.aaja.org/where-you-can-find-aaja/)**
-
-#### 2017 National Advisory Board Representative, AAJA
-**[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
 
 #### Diversity and Inclusion Leader
 **[The Center for Investigative Reporting](https://www.revealnews.org/about-us/the-2016-17-reveal-investigative-fellows/)**
