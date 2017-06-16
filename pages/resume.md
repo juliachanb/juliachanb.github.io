@@ -9,11 +9,31 @@ published: true
 
 ## **Experience**
 
+#### Director of Audience
+
+**[Mother Jones](http://www.motherjones.com/)**
+
+*San Francisco – June 2017 - Present*
+
+Julia is finding new ways for Mother Jones to build, engage and inspire audiences. 
+
+Her goals:
+ 
+- Make readers and communities an important part of the journalism
+- Run user-centric experiments using real stories and products
+- Identify trends/opportunities for testing and assessing ideas 
+- Leverage analytics and data for best results
+- Cultivate partnerships to reach new audiences
+- Determine collaborative projects to develop 
+- Optimize the execution and presentation of journalism across platforms
+
+___
+
 #### Digital Editor
 
-**[Reveal, The Center for Investigative Reporting](http://revealnews.org)**
+**[Reveal, The Center for Investigative Reporting](https://www.revealnews.org/)**
 
-*Emeryville, Calif. – January 2015 - Present*
+*Emeryville, Calif. – January 2015 - June 2017*
 
 Julia develops and oversees editorial projects that shape how stories and investigations are published across platforms. Her job combines reporting with technology, web and audio production. 
 
