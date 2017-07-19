@@ -137,11 +137,9 @@ ___
 
 ## **Panels/Presentations**
 
-**[IRE17](**[Come and Play audio hackathon](http://www.comeandplay.org/), May 2017 – Thoughtworks, San Francisco, Calif.**
+**[IRE17](https://www.ire.org/events-and-training/event/2703/), June 2017 – Phoenix, Arizona**
 
-"Audio and Audience"), June 2017 – Phoenix, Arizona**
-
-"Audio and Audience"
+"Digital options with limited resources"
 
 **[Come and Play audio hackathon](http://www.comeandplay.org/), May 2017 – Thoughtworks, San Francisco, Calif.**
 
