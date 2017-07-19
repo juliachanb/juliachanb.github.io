@@ -145,7 +145,7 @@ ___
 
 "Digital options with limited resources"
 
-**[Come and Play audio hackathon](http://www.comeandplay.org/), May 2017 – Thoughtworks, San Francisco, Calif.**
+**[Come and Play audio hackathon](http://www.comeandplay.org/), May 2017 – San Francisco, Calif.**
 
 "Audio and Audience"
 
