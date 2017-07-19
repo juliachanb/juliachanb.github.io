@@ -137,6 +137,10 @@ ___
 
 ## **Panels/Presentations**
 
+**[SRCCON 2017](https://srccon.org/), August 2017 – Minneapolis**
+
+"Push don’t pitch: Conduct tiny experiments to push through ideas instead of pitching them"
+
 **[IRE17](https://www.ire.org/events-and-training/event/2703/), June 2017 – Phoenix, Arizona**
 
 "Digital options with limited resources"
