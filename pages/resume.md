@@ -179,7 +179,7 @@ ___
 
 **2017 Al Neuharth Award for Innovation in Investigative Journalism**
 
-- Julia B. Chan and Scott Pham won for their Reveal piece, "[Portraits of A Trump Supporter](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)." A multimedia project that published 10 months before the 2016 presidential election, the pair "nailed the big story that the rest of America would be talking about," [according to judges](http://www.aaja.org/awards2017).
+- Julia B. Chan and Scott Pham won for their Reveal piece, "[Portraits of A Trump Supporter](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)." Producing a multimedia project that would publish 10 months before the 2016 presidential election, the pair "nailed the big story that the rest of America would be talking about," [according to judges](http://www.aaja.org/awards2017).
 
 **2017 News & Documentary Emmy Nominee**
 
