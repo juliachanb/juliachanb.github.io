@@ -15,7 +15,7 @@ I'm currently the Director of Audience at [Mother Jones](http://www.motherjones.
 
 Beyond the newsroom, I enjoy building community and championing diversity across industries. I serve on the [Asian American Journalists Association](http://www.aaja.org/)'s national governing board and I founded [Journalists of Color](https://journalistsofcolor.us/), a global community of digitally savvy and diverse journalists. 
 
-In February, I participated in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
+In February 2017, I participated in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
 
 I live in San Francisco, drive an electric car and have a [Pomeranian sidekick](https://www.instagram.com/p/9jjoFmzRBz/?taken-by=juliachanb).
 
