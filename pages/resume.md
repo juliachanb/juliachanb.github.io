@@ -114,10 +114,10 @@ ___
 
 ## **Leadership**
 
-#### 2017-18 National Board Representative, AAJA
+#### 2017-19 National Board Member, AAJA
 **[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
 
-#### 2017-18 President, AAJA-SF Chapter
+#### 2017-19 President, AAJA-SF Chapter
 **[Asian American Journalist Association](https://www.aaja.org/san_francisco_bay_area)**
 
 #### 2017 Fellow, Women’s Leadership Accelerator 
