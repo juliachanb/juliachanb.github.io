@@ -33,7 +33,7 @@ ___
 
 **[Reveal, The Center for Investigative Reporting](https://www.revealnews.org/)**
 
-*Emeryville, Calif. – January 2015 - June 2017*
+*Emeryville, Calif. – July 2014 - June 2017*
 
 Julia develops and oversees editorial projects that shape how stories and investigations are published across platforms. Her job combines reporting with technology, web and audio production. 
 
@@ -52,7 +52,7 @@ ___
 
 **[The Center for Investigative Reporting](https://www.revealnews.org/)** 
 
-*Emeryville, Calif. – July 2013 - January 2015*
+*Emeryville, Calif. – July 2013 - July 2014*
 
 In this role, Julia created systems to manage internal and external communications for the organization as a whole. She created the workflow for weekly newsletter production and worked closely with the copydesk to streamline website processes. 
 
