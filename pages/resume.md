@@ -179,11 +179,11 @@ ___
 
 **2018 RTDNA Regional Murrow Award, Excellence in Innovation**
 
-- Amplify wins in the Small Digital News Organization category for Region 2.
+- Amplify, an SMS texting feature, wins in the Small Digital News Organization category for Region 2.
 
 **2018 RTDNA Regional Murrow Award, Best News Documentary**
 
-- "America's Digital Dumping Ground" wins in the Small Digital News Organization category for Region 14.
+- "[America's Digital Dumping Ground](https://www.revealnews.org/episodes/americas-digital-dumping-ground/)" wins in the Small Digital News Organization category for Region 14.
 
 **2017 Al Neuharth Award for Innovation in Investigative Journalism**
 
@@ -191,11 +191,11 @@ ___
 
 **2017 Online Journalism Award, Audio Digital Storytelling**
 
-- "The Wall" multimedia package wins for Excellence in Audio Digital Storytelling in the Large Newsroom category.
+- "[The Wall](https://www.revealnews.org/episodes/up-against-the-wall/)" multimedia package wins for Excellence in Audio Digital Storytelling in the Large Newsroom category.
 
 **2017 Online Journalism Award, Topical Reporting**
 
-- Reveal episode "Standing Rock and beyond" wins in the Medium Newsroom category for Topical Reporting.
+- Reveal episode "[Standing Rock and beyond](https://www.revealnews.org/episodes/standing-rock-and-beyond/)" wins in the Medium Newsroom category for Topical Reporting.
 
 **2016 News & Documentary Emmy Award**
 
