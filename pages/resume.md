@@ -114,10 +114,10 @@ ___
 
 ## **Leadership**
 
-#### 2017-19 National Board Member, AAJA
+#### 2017-20 National Board Member, AAJA
 **[Asian American Journalist Association](http://www.aaja.org/board-of-directors/)**
 
-#### 2017-19 President, AAJA-SF Chapter
+#### 2017-20 President, AAJA-SF Chapter
 **[Asian American Journalist Association](https://www.aaja.org/san_francisco_bay_area)**
 
 #### 2017 Fellow, Women’s Leadership Accelerator 
@@ -177,9 +177,25 @@ ___
 
 ## **Awards/Honors**
 
+**2018 RTDNA Regional Murrow Award, Excellence in Innovation**
+
+- Amplify wins in the Small Digital News Organization category for Region 2.
+
+**2018 RTDNA Regional Murrow Award, Best News Documentary**
+
+- "America's Digital Dumping Ground" wins in the Small Digital News Organization category for Region 14.
+
 **2017 Al Neuharth Award for Innovation in Investigative Journalism**
 
 - Julia B. Chan and Scott Pham won for their Reveal piece, "[Portraits of A Trump Supporter](https://www.revealnews.org/article/portraits-of-a-trump-supporter/)." Producing a multimedia project that would publish 10 months before the 2016 presidential election, the pair "nailed the big story that the rest of America would be talking about," [according to judges](http://www.aaja.org/awards2017).
+
+**2017 Online Journalism Award, Audio Digital Storytelling**
+
+- "The Wall" multimedia package wins for Excellence in Audio Digital Storytelling in the Large Newsroom category.
+
+**2017 Online Journalism Award, Topical Reporting**
+
+- Reveal episode "Standing Rock and beyond" wins in the Medium Newsroom category for Topical Reporting.
 
 **2016 News & Documentary Emmy Award**
 
