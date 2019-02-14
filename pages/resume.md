@@ -120,6 +120,9 @@ ___
 #### 2017-20 President, AAJA-SF Chapter
 **[Asian American Journalist Association](https://www.aaja.org/san_francisco_bay_area)**
 
+#### 2017-19 Advisor
+**[The Coral Project](https://coralproject.net/)**
+
 #### 2017 Fellow, Women’s Leadership Accelerator 
 **[The Online News Association](https://journalists.org/2016/12/20/ona-announces-class-for-2017-womens-leadership-accelerator/)**
 
