@@ -7,16 +7,13 @@ published: true
 
 
 
-Hey, there! I’m Julia, a multiplatform journalist, project manager and digital strategist. 
 
-I've worked in the news industry for more than 10 years, managing and leading editorial content, story production and audience engagement for breaking news and long-form investigative work.
+Hey, there! I’m Julia B. Chan and I'm curently the editor in chief of [The 19th](https://19thnews.org/), a nonprofit newsroom covering the many ways gender and race dynamics shape up in U.S. politics, and how policies and legislation actually impact actual people. We also love to interrogate power.
 
-I'm currently the Director of Audience at [Mother Jones](http://www.motherjones.com/). Previously, I was the Digital Editor at [Reveal and The Center for Investigative Reporting](https://www.revealnews.org/) where I grew the organization's audiences, editorial strategy and digital offerings. 
+I've worked in the media and news industry for more than 20 years, managing and leading editorial content, story production and audience engagement for breaking news and long-form investigative work. I consider myself a digitally-savvy journalist who's worked across formats such as print and broadcast; and an enthusiastic project manager and strategist. For a more comprehensive look at my past jobs and newsrooms, check out [my LinkedIn](https://www.linkedin.com/in/juliachanb/). 
 
-Beyond the newsroom, I enjoy building community and championing diversity across industries. I serve on the [Asian American Journalists Association](http://www.aaja.org/)'s national governing board and I founded [Journalists of Color](https://journalistsofcolor.us/), a global community of digitally savvy and diverse journalists. 
+You should know that my care for storytelling is matched by my commitment to journalistic integrity and accuracy. And I've been fortunate to have my dedication to the craft, and devotion to fostering communities around this work, earn me recognition from peers and industry organizations.
 
-In February 2017, I participated in the [Women’s Leadership Accelerator class](https://journalists.org/programs/womens-leadership-accelerator/2017-class/) organized by the Online News Association.
+I’ve always been known for my keen curiosity (read: being nosy) and meticulous research skills, and I’ve dedicated my career to uncovering the truth, context and history behind complex issues, and amplifying underrepresented voices.
 
-I live in San Francisco, drive an electric car and have a [Pomeranian sidekick](https://www.instagram.com/p/9jjoFmzRBz/?taken-by=juliachanb).
-
-To the [résumé](/resume/)!
+Growing up as a wild child in San Francisco, life is a bit more chill these days. I enjoy quiet moments at the beach, loud ones with my family, good music on a decent sound system and all the noodles I can eat.
