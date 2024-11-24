@@ -1,4 +1,4 @@
-## Connect with me on the following and say hi:
+Connect with me on the following and say hi:
 
 - [LinkedIn](https://www.linkedin.com/in/juliachanb/)
 - [Bluesky](https://bsky.app/profile/juliachanb.bsky.social)
