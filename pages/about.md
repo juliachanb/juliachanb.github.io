@@ -8,7 +8,7 @@ published: true
 
 
 
-Hey, there! I’m Julia and I'm curently the editor in chief of [The 19th](https://19thnews.org/), a nonprofit newsroom covering the many ways gender and race dynamics shape up in U.S. politics, and how policies and legislation actually impact actual people. We also love to interrogate power.
+Hey, there! I’m Julia and I'm currently the editor in chief of [The 19th](https://19thnews.org/), a nonprofit newsroom covering the many ways gender and race dynamics shape up in U.S. politics, and how policies and legislation actually impact actual people. We also love to interrogate power.
 
 ![Julia B. Chan poses with The 19th’s newsroom staff during the 19th’s annual retreat, in New Orleans, in June 2024. Photo by Jeremy Tauriac for The 19th]({{site.baseurl}}/pages/JuliaBChan_06_1000px.JPG)
 _(That's me in the middle 👋 with The 19th's newsroom staff during our annual retreat in June 2024. Photo credit: Jeremy Tauriac for The 19th)_
