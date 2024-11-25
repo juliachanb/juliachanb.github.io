@@ -22,6 +22,14 @@
           </li>
           {% endif %}
 
+          {% if site.bluesky_username %}
+          <li>
+            <a href="https://bsky.app/{{ site.bluesky_username }}">
+              <i class="fa fa-bluesky"></i>  {{ site.bluesky_username }}
+            </a>
+          </li>
+          {% endif %}
+          
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
