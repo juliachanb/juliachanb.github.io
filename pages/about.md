@@ -26,5 +26,5 @@ Growing up as a wild child in San Francisco, life is a bit more chill these days
 Drop me a note on any of the platforms and if you see me around, please say hi! 👋
 
 ![Julia B. Chan is pictured in black pants and a black blazer standing in front of a newspaper print backdrop that says The 19th News. Photo by Lauren Slusher for The 19th ]({{site.baseurl}}/pages/JuliaBChan_08_700px.JPG)
-_(This is me at The 19th's “Future of the Workforce” event in Austin, Texas, on November 15, 2022. Photo by Lauren Slusher for The 19th)_
+_(This is me at The 19th's “Future of the Workforce” event in Austin, Texas, on November 15, 2022. Photo credit: Lauren Slusher for The 19th)_
 
