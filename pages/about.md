@@ -21,7 +21,9 @@ I’ve always been known for my keen curiosity (read: being nosy) and meticulous
 
 Growing up as a wild child in San Francisco, life is a bit more chill these days. I enjoy quiet moments at the beach, loud ones with my family, good music on a decent sound system and all the noodles I can eat.
 
-### Drop me a note on any of the platforms and if you see me around, please say hi! 👋
+---
+
+Drop me a note on any of the platforms and if you see me around, please say hi! 👋
 
 ![Julia B. Chan is pictured in black pants and a black blazer standing in front of a newspaper print backdrop that says The 19th News. Photo by Lauren Slusher for The 19th ]({{site.baseurl}}/pages/JuliaBChan_08_700px.JPG)
 
