@@ -15,9 +15,7 @@ I've worked in the media and news industry for more than 20 years, managing and 
 
 For a more comprehensive look at my past jobs and newsrooms, check out [my LinkedIn](https://www.linkedin.com/in/juliachanb/). 
 
-You should know that my care for storytelling is matched only by my commitment to journalistic integrity and accuracy. And I've been fortunate to have my dedication to the craft, and commitment to fostering communities around this work, earn me recognition from peers and industry organizations.
-
-I’ve always been known for my keen curiosity (read: being nosy) and meticulous research skills, and I’ve dedicated my career to uncovering the truth, context and history behind complex issues, and amplifying underrepresented voices.
+I’ve always been known for my keen curiosity (read: being nosy) and meticulous research skills, and I’ve dedicated my career to uncovering the truth, context and history behind complex issues, and amplifying underrepresented voices. My care for storytelling is matched only by my commitment to journalistic integrity and accuracy. And I've been fortunate to have my dedication to the craft, and commitment to fostering communities around this work, earn me recognition from peers and industry organizations.
 
 Growing up as a wild child in San Francisco, life is a bit more chill these days. I enjoy quiet moments at the beach, loud ones with my family, good music on a decent sound system and all the noodles I can eat.
 
@@ -27,4 +25,3 @@ Drop me a note on any of the platforms and if you see me around, please say hi! 
 
 ![Julia B. Chan is pictured in black pants and a black blazer standing in front of a newspaper print backdrop that says The 19th News. Photo by Lauren Slusher for The 19th ]({{site.baseurl}}/pages/JuliaBChan_08_700px.JPG)
 _(This is me at The 19th's “Future of the Workforce” event in Austin, Texas, on November 15, 2022. Photo credit: Lauren Slusher for The 19th)_
-
