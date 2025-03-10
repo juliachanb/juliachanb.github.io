@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /
+permalink: /about
 published: true
 ---
 Hi, I’m Julia B. Chan and I'm currently the editor in chief of [The 19th](https://19thnews.org/), a nonprofit newsroom covering the many ways gender and race dynamics shape up in U.S. politics, and how policies and legislation impact actual people. We also love to interrogate power.
